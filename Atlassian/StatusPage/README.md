@@ -16,17 +16,18 @@ With this Outbound Integration, notification recipients can quickly create, upda
    | Item | Selection |
    | ---- | ---- |
    | Choose an action | Run a Script |
-   | Select a form | \<Choose the appropriate form> |
+   | Select a form    | \<Choose the appropriate form> |
    | Select a trigger | Notification responses |
-   | Integration name | \<Form name> - Outbound Response - StatusPage.io <br/> The Integration name format is arbitrary, but including the Form name and `StatusPage.io` helps fellow developers, at a glance, see what a script does. |
+   | Integration name | \<Form name> - Outbound Response - StatusPage.io <br/> **Note** The Integration name format is arbitrary, but including the Form name and `StatusPage.io` helps fellow developers, at a glance, see what a script does. |
 6. Click Save and Open Script Editor.
 6. On the Forms tab of the Comm Plan, click the `Edit` > `Responses` option of the relevant Form that will get the StatusPage response options. 
 7. Add the following response options with the related attributes. Note that you can change the text displayed, but the code in step NNNN will reference the value in the `Response` column. So make sure the value there matches what the code expects. 
 
    | Response | Email Description | Voice Prompt | Options  |
    | -------- | ----------------- | ------------ | -------- |
-   | Create StatusPage.io Incident | Create StatusPage.io Incident | Create StatusPage.io Incident | Record Response |
-   | Update StatusPage.io Incident | Update StatusPage.io Incident | Update StatusPage.io Incident | Record Response |
+   | Create StatusPage.io Incident  | Create StatusPage.io Incident  | Create StatusPage.io Incident  | Record Response |
+   | Update StatusPage.io Incident  | Update StatusPage.io Incident  | Update StatusPage.io Incident  | Record Response |
+   | Resolve StatusPage.io Incident | Resolve StatusPage.io Incident | Resolve StatusPage.io Incident | Record Response |
 
 
 # Testing
