@@ -34,8 +34,16 @@ if( callback.response.toLowerCase() == 'create statuspage.io incident' ) {
 
 
 else if( callback.response.toLowerCase() == 'update statuspage.io incident with comment' ) {
+    if( callback.annotation == null ) {
+        console.log( 'Skipping update to StatusPage as no annotation was provided' );
+        return;
+    }
+    
     StatusPage.updateStatusPageIncident( callback.eventProperties.number, "update", callback.annotation );
 
 }
 
+else if( callback.response.toLowerCase() == 'resolve statuspage.io incident' ) {
+    StatusPage.updateStatusPageIncident( callback.eventProperties.number, "resolve" );
 
+}
