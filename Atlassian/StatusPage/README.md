@@ -11,6 +11,9 @@ With this Outbound Integration, notification recipients can quickly create, upda
 * [OutboundResponseScript.js](OutboundResponseScript.js) - This is the Outbound Response script that accepts the response from the notification recipient, inspects the response option selected and, if necessary, makes the function calls to the StatusPage shared library to then make the updates 
 
 # Installation
+## Get StatusPage Token
+
+## Add Outbount Integration
 1. Login to the xMatters instance with a user with the Developer role and access to update the target Comm Plan. Click the Developer tab and click Edit > Integration Builder for the target Comm Plan. 
 2. Expand the Shared libraries section (if necessary) and click the `+ Add` button
 3. Update the name at the top from `My Shared Library` to `StatusPage`, then paste in the contents of the [StatusPage.js](StatusPage.js) file and hit `Save`.
@@ -36,3 +39,7 @@ With this Outbound Integration, notification recipients can quickly create, upda
 
 
 # Testing
+
+Testing the changes will differ based on the Comm Plan used, but new events will have three new response options. For example:
+
+First, select the `Create StatusPage.io Incident` option to generate the Incident. Then use the `Update StatusPage.io Incident with Comment` option to add a comment to the StatusPage Incident. 
