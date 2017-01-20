@@ -12,9 +12,30 @@ With this Outbound Integration, notification recipients can quickly create, upda
 
 # Installation
 ## Get StatusPage Token
+1. Login to the StatusPage.io account as an admin user
+2. Click the username in the upper right corner and select `Manage Account`
+3. On the API tab, copy the Page ID and API Key values
 
 ## Add Outbound Integration
 1. Login to the xMatters instance with a user with the Developer role and access to update the target Comm Plan. Click the Developer tab and click Edit > Integration Builder for the target Comm Plan. 
+2. Click the Edit Endpoints button and `Add Endpoint` to add an endpoint for StatusPage
+3. Fill out the following details:
+
+   | Item | Selection |
+   | ---- | --------- |
+   | Name | StatusPage |
+   | Base URL | https://api.statuspage.io/v1/pages/PAGE_ID_HERE |
+   Where `PAGE_ID_HERE` should be replaced with the Page ID from StatusPage in the steps above. 
+4. Click Save and Close.
+5. Click the `Edit Constants` button and `Add Constant`. This will hold the API Key. 
+6. Fill out the following details:
+
+   | Item | Selection |
+   | ---- | --------- |
+   | Name | Status Page Token |
+   | Value | API_KEY_VALUE |
+   Where API_KEY_VALUE is the API Key from StatusPage in the steps above. 
+7. Click `Save Changes` and `Close`.
 2. Expand the Shared libraries section (if necessary) and click the `+ Add` button
 3. Update the name at the top from `My Shared Library` to `StatusPage`, then paste in the contents of the [StatusPage.js](StatusPage.js) file and hit `Save`.
 4. Expand the Outbound Integrations section (if necessary) and click the `+ Add` button. (We are going to add a new script here, but don't worry, this will not impact any existing scripts as you can have several Outbound Integrations that all run on Notification Response. It is important to add logic to each one to determine if they should fire.). 
