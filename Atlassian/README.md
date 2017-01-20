@@ -4,7 +4,7 @@ Atlassian is an enterprise level software company devoted to making every facet 
 # StatusPage
 The [StatusPage](StatusPage) folder contains info for hooking xMatters up to StatusPage to create, update, and resolve StatusPage incidents, directly from xMatters notifications. 
 
-# Fully Baked Integrations
+# Other Published Integrations
 We also have the following completed, tested, and supported integrations available on [xmatters.com](https://www.xmatters.com/integrations)
 
 ## JIRA Service Desk
