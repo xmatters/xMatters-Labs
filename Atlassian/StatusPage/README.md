@@ -41,7 +41,17 @@ With this Outbound Integration, notification recipients can quickly create, upda
 # Testing
 
 Testing the changes will differ based on the Comm Plan used, but new events will have three new response options. For example:
+**Display the response options**
 
-<img src="ResponseOptions.png" alt="Response Options in Mobile Device" height="400">
+<img src="images/ResponseOptions.png" alt="Response Options in Mobile Device" height="400">
+
+**Choose to include comments**
+
+<img src="images/ResponseDialog.png" alt="Response Dialog" height="400">
+
+**Enter comments**
+
+<img src="images/CommentDialog.png" alt="Comment Dialog" height="400">
+
 
 First, select the `Create StatusPage.io Incident` option to generate the Incident. Then use the `Update StatusPage.io Incident with Comment` option to add a comment to the StatusPage Incident. 
