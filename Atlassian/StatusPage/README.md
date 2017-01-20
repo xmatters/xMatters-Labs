@@ -9,11 +9,12 @@ With this Outbound Integration, notification recipients can quickly create, upda
 # Files
 * [StatusPage.js](StatusPage.js) - This is the code for the Shared Library that abstracts the interactions with StatusPage to a higher level. 
 * [OutboundResponseScript.js](OutboundResponseScript.js) - This is the Outbound Response script that accepts the response from the notification recipient, inspects the response option selected and, if necessary, makes the function calls to the StatusPage shared library to then make the updates 
+
 # Installation
-1. Login to the xMatters instance with a user with the Developer role and navigate to the Communications Plan that will be adding the StatusPage functionality. 
-2. Click the Integration Builder tab and in the Shared Libraries section expand the section, if necessary, and click the `+ Add` button
+1. Login to the xMatters instance with a user with the Developer role and access to update the target Comm Plan. Click the Developer tab and click Edit > Integration Builder for the target Comm Plan. 
+2. Expand the Shared libraries section (if necessary) and click the `+ Add` button
 3. Update the name at the top from `My Shared Library` to `StatusPage`, then paste in the contents of the [StatusPage.js](StatusPage.js) file and hit `Save`.
-4. Expand the Outbound Integrations section, if necessary, and click the `+ Add` button. (We are going to add a new script here, but don't worry, this will not impact any existing scripts, you can have several Outbound Integrations that all run on Notification Response and they will all run). 
+4. Expand the Outbound Integrations section (if necessary) and click the `+ Add` button. (We are going to add a new script here, but don't worry, this will not impact any existing scripts as you can have several Outbound Integrations that all run on Notification Response. It is important to add logic to each one to determine if they should fire.). 
 5. Fill out the following details in the wizard:
 
    | Item | Selection |
@@ -25,7 +26,7 @@ With this Outbound Integration, notification recipients can quickly create, upda
 6. Click Save and Open Script Editor and paste in the contents of the [OutboundResponseScript.js](OutboundResponseScript.js) file. 
 7. Click Save and click the X in the upper right. 
 6. On the Forms tab of the Comm Plan, click the `Edit` > `Responses` option of the relevant Form that will get the StatusPage response options. 
-7. Add the following response options with the related attributes. Note that you can change the text displayed, but the code in step NNNN will reference the value in the `Response` column. So make sure the value there matches what the code expects. 
+7. Add the following response options with the related attributes. Note that you can change the text displayed, but the code in the [OutboundResponseScript.js](OutboundResponseScript.js) file will reference the value in the `Response` column. So make sure to update the OutboundResponseScript to reflect the value in the Response column below. 
 
    | Response | Email Description | Voice Prompt | Options  |
    | -------- | ----------------- | ------------ | -------- |
