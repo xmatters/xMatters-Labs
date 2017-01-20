@@ -8,7 +8,7 @@ The [StatusPage](StatusPage) folder contains info for hooking xMatters up to Sta
 We also have the following completed, tested, and supported integrations available on [xmatters.com](https://www.xmatters.com/integrations)
 
 ## JIRA Service Desk
-With the JIRA Service Desk integration, instantly identify and communicate with the correct on-call resources to resolve customer issue as they arise, collaborate via conference bridge, and assign issues to responding users. All activity is automatically logged on the original issue.
+With the JIRA Service Desk integration, instantly identify and communicate with the correct on-call resources to resolve customer issues as they arise, collaborate via conference bridge, and assign issues to responding users. All activity is automatically logged on the original issue.
 [https://www.xmatters.com/integration/jira-service-desk-integration/](https://www.xmatters.com/integration/jira-service-desk-integration/)
 
 ## JIRA
