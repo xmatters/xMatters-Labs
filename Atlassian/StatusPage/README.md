@@ -6,6 +6,9 @@ With this Outbound Integration, notification recipients can quickly create, upda
 * Existing Communications Plan - Use a pre-built integration from the [integrations](https://www.xmatters.com/integrations) page, or [build your own](https://support.xmatters.com/hc/en-us/articles/202396229) 
 * xMatters On Demand instance - If you don't have one, [get one](https://www.xmatters.com)! 
 
+# Files
+* [StatusPage.js](StatusPage.js) - This is the code for the Shared Library that abstracts the interactions with StatusPage to a higher level. 
+* [OutboundResponseScript.js](OutboundResponseScript.js) - This is the Outbound Response script that accepts the response from the notification recipient, inspects the response option selected and, if necessary, makes the function calls to the StatusPage shared library to then make the updates 
 # Installation
 1. Login to the xMatters instance with a user with the Developer role and navigate to the Communications Plan that will be adding the StatusPage functionality. 
 2. Click the Integration Builder tab and in the Shared Libraries section expand the section, if necessary, and click the `+ Add` button
@@ -19,7 +22,8 @@ With this Outbound Integration, notification recipients can quickly create, upda
    | Select a form    | \<Choose the appropriate form> |
    | Select a trigger | Notification responses |
    | Integration name | \<Form name> - Outbound Response - StatusPage.io <br/> **Note** The Integration name format is arbitrary, but including the Form name and `StatusPage.io` helps fellow developers, at a glance, see what a script does. |
-6. Click Save and Open Script Editor.
+6. Click Save and Open Script Editor and paste in the contents of the [OutboundResponseScript.js](OutboundResponseScript.js) file. 
+7. Click Save and click the X in the upper right. 
 6. On the Forms tab of the Comm Plan, click the `Edit` > `Responses` option of the relevant Form that will get the StatusPage response options. 
 7. Add the following response options with the related attributes. Note that you can change the text displayed, but the code in step NNNN will reference the value in the `Response` column. So make sure the value there matches what the code expects. 
 
