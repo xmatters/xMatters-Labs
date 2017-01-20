@@ -5,7 +5,7 @@ This document details how to install and use this integration.
 
 # Pre-Requisites
 * [StatusPage.io](https://www.statuspage.io/) account
-* Existing Communications Plan - Use a packaged integration from the [integrations](https://www.xmatters.com/integrations) page, or [build your own](https://support.xmatters.com/hc/en-us/articles/202396229) 
+* Existing communication plan - Use a packaged integration from the [integrations](https://www.xmatters.com/integrations) page, or [build your own](https://support.xmatters.com/hc/en-us/articles/202396229) 
 * xMatters account - If you don't have one, [get one](https://www.xmatters.com)! 
 
 # Files
