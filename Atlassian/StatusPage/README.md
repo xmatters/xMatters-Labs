@@ -26,13 +26,13 @@ With this Outbound Integration, notification recipients can quickly create, upda
 6. Click Save and Open Script Editor and paste in the contents of the [OutboundResponseScript.js](OutboundResponseScript.js) file. 
 7. Click Save and click the X in the upper right. 
 6. On the Forms tab of the Comm Plan, click the `Edit` > `Responses` option of the relevant Form that will get the StatusPage response options. 
-7. Add the following response options with the related attributes. Note that you can change the text displayed, but the code in the [OutboundResponseScript.js](OutboundResponseScript.js) file will reference the value in the `Response` column. So make sure to update the OutboundResponseScript to reflect the value in the Response column below. 
+7. Add the following response options with the related attributes. Note that you can change the text displayed, but the code in the [OutboundResponseScript.js](OutboundResponseScript.js) file will reference the value in the `Response` column. So make sure to update the OutboundResponseScript to reflect the value in the Response column below. Also note that comments (annotations) are only supported on mobile devices. 
 
    | Response | Email Description | Voice Prompt | Options  |
    | -------- | ----------------- | ------------ | -------- |
-   | Create StatusPage.io Incident  | Create StatusPage.io Incident  | Create StatusPage.io Incident  | Record Response |
-   | Update StatusPage.io Incident  | Update StatusPage.io Incident  | Update StatusPage.io Incident  | Record Response |
-   | Resolve StatusPage.io Incident | Resolve StatusPage.io Incident | Resolve StatusPage.io Incident | Record Response |
+   | Create StatusPage.io Incident               | Create StatusPage.io Incident               | Create StatusPage.io Incident  | Record Response |
+   | Update StatusPage.io Incident with Comment  | Update StatusPage.io Incident with Comment  | Update StatusPage.io Incident with Comment | Record Response |
+   | Resolve StatusPage.io Incident              | Resolve StatusPage.io Incident | Resolve StatusPage.io Incident | Record Response |
 
 
 # Testing
