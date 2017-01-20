@@ -4,7 +4,7 @@ With this Outbound Integration, notification recipients can quickly create, upda
 # Pre-Requisites
 * [StatusPage.io](https://www.statuspage.io/) account
 * Existing Communications Plan - Use a packaged integration from the [integrations](https://www.xmatters.com/integrations) page, or [build your own](https://support.xmatters.com/hc/en-us/articles/202396229) 
-* xMatters On Demand instance - If you don't have one, [get one](https://www.xmatters.com)! 
+* xMatters account - If you don't have one, [get one](https://www.xmatters.com)! 
 
 # Files
 * [StatusPage.js](StatusPage.js) - This is the code for the Shared Library that abstracts the interactions with StatusPage to a higher level. 
