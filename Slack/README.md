@@ -52,7 +52,7 @@ if( data.properties.task_chat_room == 'Slack' ) {
     var team    = Slack.getTeam();
 
     // Generate a link and set the Join Chat link element visible
-    data.properties.chat_link = 'https://' + team.name + '.slack.com/messages/#' + data.properties.number;
+    data.properties.chat_link = 'https://' + team.name + '.slack.com/messages/' + data.properties.number;
     data.properties.chat_link_disp = "visible";
 }
 ```
