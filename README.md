@@ -6,3 +6,5 @@ This is a repository of useful in-progress integrations, interesting code sample
 If you have a script, a snippet, or even a fully-functional, two-way, closed-loop, rock-steady integration to add, submit a Pull Request and we'll review it. (At some point in the hopefully very near future, we'll add a template to follow for different types of submissions. For now, you can use the format of the existing integrations as a basis for any contributions you'd like to make.)
 
 For a full list of our current integrations, head over to [xmatters.com/integrations](https://www.xmatters.com/integrations). 
+
+To join the discussion on all things related to xMatters integrations, check out our user forums at https://support.xmatters.com/hc/en-us/community/topics/200330486-Integrations-Q-A
