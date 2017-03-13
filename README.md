@@ -8,3 +8,30 @@ If you have a script, a snippet, or even a fully-functional, two-way, closed-loo
 For a full list of our current integrations, head over to [xmatters.com/integrations](https://www.xmatters.com/integrations). 
 
 To join the discussion on all things related to xMatters integrations, check out our user forums at https://support.xmatters.com/hc/en-us/community/topics/200330486-Integrations-Q-A
+
+# Contents
+- [Atlassian](#atlassian)
+  - [StatusPage](#statuspage)
+  - [JIRA Service Desk](#jira-service-desk)
+  - [JIRA](#jira)
+- [Slack](#slack)
+
+
+# Integrations
+## Atlassian
+### StatusPage
+[StatusPage](https://github.com/xMTinkerer/xm-labs-statuspage) - Integration for posting to StatusPage.io
+
+### JIRA Service Desk
+With the JIRA Service Desk integration, instantly identify and communicate with the correct on-call resources to resolve customer issues as they arise, collaborate via conference bridge, and assign issues to responding users. All activity is automatically logged on the original issue.
+[https://www.xmatters.com/integration/jira-service-desk-integration/](https://www.xmatters.com/integration/jira-service-desk-integration/)
+
+### JIRA
+The standard JIRA integration is geared toward a more generic JIRA implementation. 
+[https://www.xmatters.com/integration/integrationjira/](https://www.xmatters.com/integration/integrationjira/)
+
+### Hipchat
+Coming soon!
+
+## Slack
+[Slack](https://github.com/xMTinkerer/xm-labs-slack) - Shared Library for working with Slack
