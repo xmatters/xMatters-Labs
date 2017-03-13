@@ -4,7 +4,7 @@ Atlassian is an enterprise-level software company devoted to making every facet 
 This is the landing page for assorted Atlassian-specific scripts and code samples, and any in-development integrations we have to the various Atlassian products. 
 
 # StatusPage
-The [StatusPage](StatusPage) folder contains info for hooking xMatters up to StatusPage to create, update, and resolve StatusPage incidents, directly from xMatters notifications. 
+The [StatusPage](https://github.com/xMTinkerer/xm-labs-statuspage) repo contains info for hooking xMatters up to StatusPage to create, update, and resolve StatusPage incidents, directly from xMatters notifications. 
 
 # Other Published Integrations
 We also have the following completed, tested, and supported integrations available on [xmatters.com](https://www.xmatters.com/integrations)
