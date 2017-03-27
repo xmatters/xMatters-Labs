@@ -14,6 +14,8 @@ To join the discussion on all things related to xMatters integrations, check out
   - [StatusPage](#statuspage)
   - [JIRA Service Desk](#jira-service-desk)
   - [JIRA](#jira)
+- [ServiceNow)[#servicenow)
+  - [Inform with xMatters](#inform-with-xmatters)
 - [Slack](#slack)
 
 
@@ -32,6 +34,10 @@ The standard JIRA integration is geared toward a more generic JIRA implementatio
 
 ### Hipchat
 Coming soon!
+
+## ServiceNow
+### Inform with xMatters
+[Inform with xMatters](https://github.com/xmatters/xm-labs-snow-inform) - An "add-on" for ad-hoc FYI type notifications from ServiceNow. 
 
 ## Slack
 [Slack](https://github.com/xmatters/xm-labs-slack) - Shared Library for working with Slack
