@@ -14,7 +14,7 @@ To join the discussion on all things related to xMatters integrations, check out
   - [StatusPage](#statuspage)
   - [JIRA Service Desk](#jira-service-desk)
   - [JIRA](#jira)
-- [ServiceNow)[#servicenow)
+- [ServiceNow](#servicenow)
   - [Inform with xMatters](#inform-with-xmatters)
 - [Slack](#slack)
 
