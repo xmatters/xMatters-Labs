@@ -20,7 +20,7 @@ To join the discussion on all things related to xMatters integrations, check out
 # Integrations
 ## Atlassian
 ### StatusPage
-[StatusPage](https://github.com/xMTinkerer/xm-labs-statuspage) - Integration for posting to StatusPage.io
+[StatusPage](https://github.com/xmatters/xm-labs-statuspage) - Integration for posting to StatusPage.io
 
 ### JIRA Service Desk
 With the JIRA Service Desk integration, instantly identify and communicate with the correct on-call resources to resolve customer issues as they arise, collaborate via conference bridge, and assign issues to responding users. All activity is automatically logged on the original issue.
@@ -34,4 +34,4 @@ The standard JIRA integration is geared toward a more generic JIRA implementatio
 Coming soon!
 
 ## Slack
-[Slack](https://github.com/xMTinkerer/xm-labs-slack) - Shared Library for working with Slack
+[Slack](https://github.com/xmatters/xm-labs-slack) - Shared Library for working with Slack
