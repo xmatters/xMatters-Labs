@@ -38,6 +38,8 @@ Coming soon!
 ## ServiceNow
 ### Inform with xMatters
 [Inform with xMatters](https://github.com/xmatters/xm-labs-snow-inform) - An "add-on" for ad-hoc FYI type notifications from ServiceNow. 
+### CI Support Groups on Engage form
+[CI Support Groups](https://github.com/xmatters/xm-labs-snow-ci-groups) - An "add-on" for including the upstream and downstream CI groups to the Engage with xMatters form. 
 
 ## Slack
 [Slack](https://github.com/xmatters/xm-labs-slack) - Shared Library for working with Slack
