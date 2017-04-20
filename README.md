@@ -14,6 +14,7 @@ To join the discussion on all things related to xMatters integrations, check out
   - [StatusPage](#statuspage)
   - [JIRA Service Desk](#jira-service-desk)
   - [JIRA](#jira)
+- [Stackdriver](#stackdriver)
 - [ServiceNow](#servicenow)
   - [Inform with xMatters](#inform-with-xmatters)
 - [Slack](#slack)
@@ -34,6 +35,10 @@ The standard JIRA integration is geared toward a more generic JIRA implementatio
 
 ### Hipchat
 Coming soon!
+
+## Stackdriver
+Google Cloud's monitoring, logging and alerting platform get the xMatters treatment. 
+[https://github.com/xmatters/xm-labs-stackdriver](https://github.com/xmatters/xm-labs-stackdriver)
 
 ## ServiceNow
 ### Inform with xMatters
