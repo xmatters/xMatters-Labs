@@ -14,6 +14,7 @@ To join the discussion on all things related to xMatters integrations, check out
   - [StatusPage](#statuspage)
   - [JIRA Service Desk](#jira-service-desk)
   - [JIRA](#jira)
+- [Dynatrace](#dynatrace)
 - [Stackdriver](#stackdriver)
 - [ServiceNow](#servicenow)
   - [Inform with xMatters](#inform-with-xmatters)
@@ -35,6 +36,10 @@ The standard JIRA integration is geared toward a more generic JIRA implementatio
 
 ### Hipchat
 Coming soon!
+
+## Dynatrace
+Dynatrace is a leading performance and application monitoring application. This integration extends the alerting capabilities to use xMatters.
+[https://github.com/xmatters/xm-labs-dynatrace](https://github.com/xmatters/xm-labs-dynatrace)
 
 ## Stackdriver
 Google Cloud's monitoring, logging and alerting platform get the xMatters treatment. 
