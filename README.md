@@ -56,4 +56,4 @@ Google Cloud's monitoring, logging and alerting platform get the xMatters treatm
 [Slack](https://github.com/xmatters/xm-labs-slack) - Shared Library for working with Slack
 
 ## Zabbix
-[Zabbix](https://github.com/xmatters/xm-labs-zabbix) - Full, closed loop integration with Zabbix
+[Zabbix](https://github.com/xmatters/xm-labs-zabbix) - Fully built integration to Zabbix.
