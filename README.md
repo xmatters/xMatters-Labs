@@ -19,6 +19,7 @@ To join the discussion on all things related to xMatters integrations, check out
 - [ServiceNow](#servicenow)
   - [Inform with xMatters](#inform-with-xmatters)
 - [Slack](#slack)
+- [Zabbix](#zabbix)
 
 
 # Integrations
@@ -53,3 +54,6 @@ Google Cloud's monitoring, logging and alerting platform get the xMatters treatm
 
 ## Slack
 [Slack](https://github.com/xmatters/xm-labs-slack) - Shared Library for working with Slack
+
+## Zabbix
+[Zabbix](https://github.com/xmatters/xm-labs-zabbix) - Full, closed loop integration with Zabbix
