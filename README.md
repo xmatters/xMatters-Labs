@@ -10,6 +10,7 @@ For a full list of our current integrations, head over to [xmatters.com/integrat
 To join the discussion on all things related to xMatters integrations, check out our user forums at https://support.xmatters.com/hc/en-us/community/topics/200330486-Integrations-Q-A
 
 # Contents
+- [Alertus](#alertus)
 - [Atlassian](#atlassian)
   - [StatusPage](#statuspage)
   - [JIRA Service Desk](#jira-service-desk)
@@ -24,6 +25,9 @@ To join the discussion on all things related to xMatters integrations, check out
 
 
 # Integrations
+## Alertus
+The [Alertus](https://github.com/xmatters/xm-labs-alertus) integration provides desktop notification capability.
+
 ## Atlassian
 ### StatusPage
 [StatusPage](https://github.com/xmatters/xm-labs-statuspage) - Integration for posting to StatusPage.io
