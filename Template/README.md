@@ -1,3 +1,9 @@
+# Instructions on creating the repo
+[Create the repo](https://help.github.com/articles/create-a-repo/) using your own Github account and let Travis know when you are finished. He will then fork it to pull it under the xMatters account and update the necessary links in the xM Labs main page.
+
+# Template below:
+---
+
 # Product Name Goes Here
 A note about what the product is and what this integration/scriptlet is all about. 
 
