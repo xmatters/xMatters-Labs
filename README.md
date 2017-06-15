@@ -13,8 +13,8 @@ To join the discussion on all things related to xMatters integrations, check out
 - [Alertus](#alertus)
 - [Atlassian](#atlassian)
   - [StatusPage](#statuspage)
-  - [JIRA Service Desk](#jira-service-desk)
-  - [JIRA](#jira)
+  - [JIRA - Cloud](#jira-cloud)
+  - [JIRA - Server](#jira-server)
 - [Dynatrace](#dynatrace)
 - [OverOps](#overops)
 - [Stackdriver](#stackdriver)
@@ -33,13 +33,11 @@ The [Alertus](https://github.com/xmatters/xm-labs-alertus) integration provides 
 ### StatusPage
 [StatusPage](https://github.com/xmatters/xm-labs-statuspage) - Integration for posting to StatusPage.io
 
-### JIRA Service Desk
-With the JIRA Service Desk integration, instantly identify and communicate with the correct on-call resources to resolve customer issues as they arise, collaborate via conference bridge, and assign issues to responding users. All activity is automatically logged on the original issue.
-[https://www.xmatters.com/integration/jira-service-desk-integration/](https://www.xmatters.com/integration/jira-service-desk-integration/)
+### JIRA - Cloud
+The standard JIRA cloud integration is geared toward a more generic implementation for JIRA Software and JIRA Service Desk. [https://www.xmatters.com/integration/jira-cloud/](https://www.xmatters.com/integration/jira-cloud/)
 
-### JIRA
-The standard JIRA integration is geared toward a more generic JIRA implementation. 
-[https://www.xmatters.com/integration/integrationjira/](https://www.xmatters.com/integration/integrationjira/)
+### JIRA - Server
+With the JIRA Server integration for JIRA Software and JIRA Service Desk, instantly identify and communicate with the correct on-call resources to resolve customer issues as they arise, collaborate via conference bridge, and assign issues to responding users. All activity is automatically logged on the original issue. [https://www.xmatters.com/integration/jira-server/](https://www.xmatters.com/integration/jira-server/)
 
 ### Hipchat
 Coming soon!
