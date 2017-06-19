@@ -16,6 +16,7 @@ To join the discussion on all things related to xMatters integrations, check out
   - [JIRA - Cloud](#jira---cloud)
   - [JIRA - Server](#jira---server)
 - [Dynatrace](#dynatrace)
+- [Jenkins](#jenkins)
 - [OverOps](#overops)
 - [Stackdriver](#stackdriver)
 - [ServiceNow](#servicenow)
@@ -39,12 +40,13 @@ The standard JIRA cloud integration is geared toward a more generic implementati
 ### JIRA - Server
 With the JIRA Server integration for JIRA Software and JIRA Service Desk, instantly identify and communicate with the correct on-call resources to resolve customer issues as they arise, collaborate via conference bridge, and assign issues to responding users. All activity is automatically logged on the original issue. [https://www.xmatters.com/integration/jira-server/](https://www.xmatters.com/integration/jira-server/)
 
-### Hipchat
-Coming soon!
-
 ## Dynatrace
 Dynatrace is a leading performance and application monitoring application. This integration extends the alerting capabilities to use xMatters.
 [https://github.com/xmatters/xm-labs-dynatrace](https://github.com/xmatters/xm-labs-dynatrace)
+
+## Jenkins
+Jenkins is the leading automation server. 
+[https://github.com/xmatters/xmatters-labs-Jenkins](https://github.com/xmatters/xmatters-labs-Jenkins)
 
 ## OverOps
 OverOps is a leading monitoring solution that provides direct insight into code level issues.
