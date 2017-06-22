@@ -36,6 +36,7 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [StatusPage](#statuspage)
   - [JIRA - Cloud](#jira---cloud)
   - [JIRA - Server](#jira---server)
+- [Chef](#chef)
 - [Dynatrace](#dynatrace)
 - [Jenkins](#jenkins)
 - [Logz.io](#logz.io)
@@ -63,6 +64,10 @@ The standard JIRA cloud integration is geared toward a more generic implementati
 
 ### JIRA - Server
 With the JIRA Server integration for JIRA Software and JIRA Service Desk, instantly identify and communicate with the correct on-call resources to resolve customer issues as they arise, collaborate via conference bridge, and assign issues to responding users. All activity is automatically logged on the original issue. [https://www.xmatters.com/integration/jira-server/](https://www.xmatters.com/integration/jira-server/)
+
+## Chef
+Whether you have five or five thousand servers, Chef lets you manage them all by turning infrastructure into code. 
+[https://github.com/xmatters/Chef-Server](https://github.com/xmatters/Chef-Server)
 
 ## Dynatrace
 Dynatrace is a leading performance and application monitoring application. This integration extends the alerting capabilities to use xMatters.
