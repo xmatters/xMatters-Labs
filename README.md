@@ -67,7 +67,7 @@ With the JIRA Server integration for JIRA Software and JIRA Service Desk, instan
 
 ## Chef
 Whether you have five or five thousand servers, Chef lets you manage them all by turning infrastructure into code. 
-[https://github.com/xmatters/Chef-Server](https://github.com/xmatters/Chef-Server)
+[https://github.com/xmatters/xm-labs-chef-server](https://github.com/xmatters/xm-labs-chef-server)
 
 ## Dynatrace
 Dynatrace is a leading performance and application monitoring application. This integration extends the alerting capabilities to use xMatters.
@@ -75,10 +75,10 @@ Dynatrace is a leading performance and application monitoring application. This 
 
 ## Jenkins
 Jenkins is the leading automation server. 
-[https://github.com/xmatters/xmatters-labs-Jenkins](https://github.com/xmatters/xmatters-labs-Jenkins)
+[https://github.com/xmatters/xm-labs-jenkins](https://github.com/xmatters/xm-labs-jenkins)
 
 ## Logz.io
-[Logz.io](https://logz.io/) is a cloud based implementation of the ELK stack. Check out the integration to xMatters here: https://github.com/xmatters/logz.io-elk
+[Logz.io](https://logz.io/) is a cloud based implementation of the ELK stack. Check out the integration to xMatters here: [https://github.com/xmatters/xm-labs-logz.io-elk](https://github.com/xmatters/xm-labs-logz.io-elk)
 
 ## OverOps
 OverOps is a leading monitoring solution that provides direct insight into code level issues.
