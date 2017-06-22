@@ -38,12 +38,15 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [JIRA - Server](#jira---server)
 - [Dynatrace](#dynatrace)
 - [Jenkins](#jenkins)
+- [Logz.io](#logz.io)
 - [OverOps](#overops)
+- [SalesForce](#salesforce)
 - [Stackdriver](#stackdriver)
 - [ServiceNow](#servicenow)
   - [Inform with xMatters](#inform-with-xmatters)
   - [CI Support Groups on Engage form](#ci-support-groups-on-engage-form)
 - [Slack](#slack)
+- [Unified Infrastructure Manager](#unified-infrastructure-Manager)
 - [Zabbix](#zabbix)
 
 
@@ -69,9 +72,15 @@ Dynatrace is a leading performance and application monitoring application. This 
 Jenkins is the leading automation server. 
 [https://github.com/xmatters/xmatters-labs-Jenkins](https://github.com/xmatters/xmatters-labs-Jenkins)
 
+## Logz.io
+[Logz.io](https://logz.io/) is a cloud based implementation of the ELK stack. Check out the integration to xMatters here: https://github.com/xmatters/logz.io-elk
+
 ## OverOps
 OverOps is a leading monitoring solution that provides direct insight into code level issues.
 [https://github.com/xmatters/xm-labs-overops](https://github.com/xmatters/xm-labs-overops)
+
+## SalesForce
+[https://github.com/xmatters/SalesForce](https://github.com/xmatters/SalesForce)
 
 ## Stackdriver
 Google Cloud's monitoring, logging and alerting platform get the xMatters treatment. 
@@ -85,6 +94,9 @@ Google Cloud's monitoring, logging and alerting platform get the xMatters treatm
 
 ## Slack
 [Slack](https://github.com/xmatters/xm-labs-slack) - Shared Library for working with Slack
+
+## Unified Infrastructure Manager
+[CA UIM](https://github.com/xmatters/xm-labs-ca-uim) 
 
 ## Zabbix
 [Zabbix](https://github.com/xmatters/xm-labs-zabbix) - Fully built integration to Zabbix.
