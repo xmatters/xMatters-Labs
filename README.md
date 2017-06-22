@@ -5,11 +5,26 @@ Welcome to xMatters Labs, the official/unofficial Research and Development wing 
 
 This is a curated list (based on the awesome framework of [awesome-cisco](https://github.com/CiscoDevNet/awesome-ciscospark) and [awesome-go](https://github.com/avelino/awesome-go)) of useful in-progress integrations, interesting code samples, and other experiments, and as such we can provide only limited support. If you run into any problems, open an issue here on Github and we'll see what we can do. 
 
-If you have a script, a snippet, or even a fully-functional, two-way, closed-loop, rock-steady integration to add head over to the [xM Labs Template](https://github.com/xmatters/xm-labs-template) repo for instructions on getting started. 
-
 For a full list of our current integrations, head over to [xmatters.com/integrations](https://www.xmatters.com/integrations). 
 
 To join the discussion on all things related to xMatters integrations, check out our user forums at https://support.xmatters.com/hc/en-us/community/topics/200330486-Integrations-Q-A
+
+# Contributing
+
+## Getting started - Integrating
+There are really 3 types of integrations to/from the xMatters platform:
+* *Data Source* - Getting groups, user or device data in or out of xMatters
+  * *Example*: None yet. Contribute one!
+* *Event Triggers* - Initate events. These events do not necessarily need to notify people
+  * *Example*: [JIRA - Cloud](#jira---cloud)
+  * *One way*: Start here: https://support.xmatters.com/hc/en-us/articles/115001230823
+  * *Closed loop*: Start here: https://support.xmatters.com/hc/en-us/articles/211526223
+* *Enrichment* - Intended to be tacked on to an existing integration, these provide enrichment or enhancement functionality.
+  * *Example*: [StatusPage](#statuspage), ServiceNow [Inform with xMatters](#inform-with-xmatters)
+  * *Getting started*: https://support.xmatters.com/hc/en-us/articles/214627943
+
+## Getting started - Post the repo
+Once you've completed the integration, it's time to post the artifacts to github. The [xM Labs Template](https://github.com/xmatters/xm-labs-template) has all the details on how to get the repo created, clone the template, update some urls and then push back to github. Once all the documentation bits are complete, drop an email to Travis, or raise an issue [here](https://github.com/xmatters/xMatters-Labs/issues) and we'll fork the repo and get the list below updated.
 
 # Contents
 - [Alertus](#alertus)
