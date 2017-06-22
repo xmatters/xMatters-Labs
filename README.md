@@ -13,13 +13,13 @@ To join the discussion on all things related to xMatters integrations, check out
 
 ## Getting started - Integrating
 There are really 3 types of integrations to/from the xMatters platform:
-* *Data Source* - Getting groups, user or device data in or out of xMatters
+* **Data Source** - Getting groups, user or device data in or out of xMatters
   * *Example*: None yet. Contribute one!
-* *Event Triggers* - Initate events. These events do not necessarily need to notify people
+* **Event Triggers** - Initate events. These events do not necessarily need to notify people
   * *Example*: [JIRA - Cloud](#jira---cloud)
   * *One way*: Start here: https://support.xmatters.com/hc/en-us/articles/115001230823
   * *Closed loop*: Start here: https://support.xmatters.com/hc/en-us/articles/211526223
-* *Enrichment* - Intended to be tacked on to an existing integration, these provide enrichment or enhancement functionality.
+* **Enrichment** - Intended to be tacked on to an existing integration, these provide enrichment or enhancement functionality.
   * *Example*: [StatusPage](#statuspage), ServiceNow [Inform with xMatters](#inform-with-xmatters)
   * *Getting started*: https://support.xmatters.com/hc/en-us/articles/214627943
 
