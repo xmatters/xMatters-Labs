@@ -39,6 +39,7 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [Chef](#chef)
 - [Dynatrace](#dynatrace)
 - [Jenkins](#jenkins)
+- [Loggly](#loggly)
 - [Logz.io](#logz.io)
 - [OverOps](#overops)
 - [SalesForce](#salesforce)
@@ -76,6 +77,9 @@ Dynatrace is a leading performance and application monitoring application. This 
 ## Jenkins
 Jenkins is the leading automation server. 
 [https://github.com/xmatters/xm-labs-jenkins](https://github.com/xmatters/xm-labs-jenkins)
+
+## Loggly
+[https://github.com/xmatters/xm-labs-loggly](https://github.com/xmatters/xm-labs-loggly)
 
 ## Logz.io
 [Logz.io](https://logz.io/) is a cloud based implementation of the ELK stack. Check out the integration to xMatters here: [https://github.com/xmatters/xm-labs-logz.io-elk](https://github.com/xmatters/xm-labs-logz.io-elk)
