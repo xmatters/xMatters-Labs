@@ -40,7 +40,7 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [Dynatrace](#dynatrace)
 - [Jenkins](#jenkins)
 - [Loggly](#loggly)
-- [Logz.io](#logz.io)
+- [Logz.io](#logzio)
 - [OverOps](#overops)
 - [SalesForce](#salesforce)
 - [Stackdriver](#stackdriver)
