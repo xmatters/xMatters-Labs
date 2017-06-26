@@ -34,8 +34,6 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [Alertus](#alertus)
 - [Atlassian](#atlassian)
   - [StatusPage](#statuspage)
-  - [JIRA - Cloud](#jira---cloud)
-  - [JIRA - Server](#jira---server)
 - [Chef](#chef)
 - [Dynatrace](#dynatrace)
 - [Jenkins](#jenkins)
@@ -54,17 +52,11 @@ Once you've completed the integration, it's time to post the artifacts to github
 
 # Integrations
 ## Alertus
-The [Alertus](https://github.com/xmatters/xm-labs-alertus) integration provides desktop notification capability.
+The Alertus integration provides desktop notification capability. [(https://github.com/xmatters/xm-labs-alertus](https://github.com/xmatters/xm-labs-alertus)
 
 ## Atlassian
 ### StatusPage
-[StatusPage](https://github.com/xmatters/xm-labs-statuspage) - Integration for posting to StatusPage.io
-
-### JIRA - Cloud
-The standard JIRA cloud integration is geared toward a more generic implementation for JIRA Software and JIRA Service Desk. [https://www.xmatters.com/integration/jira-cloud/](https://www.xmatters.com/integration/jira-cloud/)
-
-### JIRA - Server
-With the JIRA Server integration for JIRA Software and JIRA Service Desk, instantly identify and communicate with the correct on-call resources to resolve customer issues as they arise, collaborate via conference bridge, and assign issues to responding users. All activity is automatically logged on the original issue. [https://www.xmatters.com/integration/jira-server/](https://www.xmatters.com/integration/jira-server/)
+Integration for posting to StatusPage.io. [https://github.com/xmatters/xm-labs-statuspage](https://github.com/xmatters/xm-labs-statuspage)
 
 ## Chef
 Whether you have five or five thousand servers, Chef lets you manage them all by turning infrastructure into code. 
