@@ -3,7 +3,7 @@
 # xMatters-Labs
 Welcome to xMatters Labs, the official/unofficial Research and Development wing of xMatters, inc., and home to the most cutting-edge integrations on offer.
 
-This is a curated list of useful in-progress integrations, interesting code samples, and other experiments, and as such we can provide only limited support. If you run into any problems, open an issue here on Github and we'll see what we can do. 
+This is a curated list of useful in-progress integrations, interesting code samples, and other experiments, and as such we can provide only limited support. If you run into any problems, open an issue here on GitHub and we'll see what we can do. 
 
 For a full list of our current integrations, head over to [xmatters.com/integrations](https://www.xmatters.com/integrations). 
 
@@ -20,7 +20,7 @@ When thinking about deisgning an integration, remember that there are really thr
 * **Event Triggers** - Initate events. These events do not necessarily need to notify people.
   * *Example*: [Chef](#chef)
   * *One way*: Start here: https://support.xmatters.com/hc/en-us/articles/115001230823
-  * *Closed loop*: Start here: https://support.xmatters.com/hc/en-us/articles/211526223
+  * *Closed-loop*: Start here: https://support.xmatters.com/hc/en-us/articles/211526223
 * **Enrichment** - Intended to be tacked on to an existing integration, these provide enrichment or enhancement functionality.
   * *Example*: [StatusPage](#statuspage), ServiceNow [Inform with xMatters](#inform-with-xmatters)
   * *Getting started*: https://support.xmatters.com/hc/en-us/articles/214627943
