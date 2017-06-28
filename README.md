@@ -62,11 +62,11 @@ The Alertus integration allows xMatters to make limited desktop notifications. (
 
 ## Atlassian
 ### StatusPage
-Integration for posting to StatusPage.io. This integration allows rrecipients to create, update, and resolve incidents in StatusPage using the response options in the notifications.
+Integration for posting to StatusPage.io. This integration allows recipients to create, update, and resolve incidents in StatusPage using the response options in the notifications.
 * [Closed-loop integration with StatusPage](https://github.com/xmatters/xm-labs-statuspage)
 
 ## Chef
-Whether you have five or five thousand servers, Chef lets you manage them all by turning infrastructure into code. This integration lets you integrate xMAtters and Chef Server at the Recipe level.
+Whether you have five or five thousand servers, Chef lets you manage them all by turning infrastructure into code. This integration lets you integrate xMatters and Chef Server at the Recipe level.
 * [Integration with Chef Server](https://github.com/xmatters/xm-labs-chef-server)
 
 ## Dynatrace
