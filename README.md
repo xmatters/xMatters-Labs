@@ -28,7 +28,10 @@ There are really 3 types of integrations to/from the xMatters platform:
 * [xMatters API doc](http://help.xmatters.com/xmAPI/)
 
 ## Getting started - Post the repo
-Once you've completed the integration, it's time to post the artifacts to github. The [xM Labs Template](https://github.com/xmatters/xm-labs-template) has all the details on how to get the repo created, clone the template, update some urls and then push back to github. Once all the documentation bits are complete, drop an email to Travis, or raise an issue [here](https://github.com/xmatters/xMatters-Labs/issues) and we'll fork the repo and get the list below updated.
+Once you've completed the integration, it's time to post the artifacts to github.
+
+1. Head over to the [template](https://github.com/xmatters/xm-labs-template) for detailed instructions on how to get started.
+2. After all changes have been made, open an [issue](https://github.com/xmatters/xMatters-Labs/issues) and we'll add it to the list. We might fork the repo to keep it "in house". 
 
 # Contents
 - [Alertus](#alertus)
