@@ -18,11 +18,11 @@ When thinking about deisgning an integration, remember that there are really thr
 * **Data Source** - Getting group, user, or device data in or out of xMatters.
   * *Example*: None yet. Contribute one!
 * **Event Triggers** - Initate events. These events do not necessarily need to notify people.
-  * *Example*: [Chef](#chef)
+  * *Example*: [Chef](#chef), ServiceNow [Inform with xMatters](#inform-with-xmatters)
   * *One way*: Start here: https://support.xmatters.com/hc/en-us/articles/115001230823
   * *Closed-loop*: Start here: https://support.xmatters.com/hc/en-us/articles/211526223
 * **Enrichment** - Intended to be tacked on to an existing integration, these provide enrichment or enhancement functionality.
-  * *Example*: [StatusPage](#statuspage), ServiceNow [Inform with xMatters](#inform-with-xmatters)
+  * *Example*: [StatusPage](#statuspage)
   * *Getting started*: https://support.xmatters.com/hc/en-us/articles/214627943
 
 **Other Links**
