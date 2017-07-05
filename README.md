@@ -78,7 +78,7 @@ Dynatrace is a leading performance and application monitoring application. This 
 
 ### AppMon
 Dynatrace Application Monitoring provides all performance metrics in real time and detects and diagnoses problems automatically.
-* [Dynatrace AppMon](https://github.com/xMTinkerer/xm-labs-dynatrace-appmon)
+* [Dynatrace AppMon](https://github.com/xmatters/xm-labs-dynatrace-appmon)
 
 ## Jenkins
 Jenkins is the leading automation server. This integration allows recipients to respond to notifications from xMatters and update their builds in Jenkins.
