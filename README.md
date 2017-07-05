@@ -42,7 +42,7 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [Chef](#chef)
 - [Dynatrace](#dynatrace)
   - [Dynatrace](#dynatrace)
-  - [Application Monitor](#appmon)
+  - [Application Monitoring](#appmon)
 - [Jenkins](#jenkins)
 - [Loggly](#loggly)
 - [Logz.io](#logzio)
