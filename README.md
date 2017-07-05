@@ -41,6 +41,8 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [StatusPage](#statuspage)
 - [Chef](#chef)
 - [Dynatrace](#dynatrace)
+  - [Dynatrace](#dynatrace)
+  - [Application Monitor](#appmon)
 - [Jenkins](#jenkins)
 - [Loggly](#loggly)
 - [Logz.io](#logzio)
@@ -70,8 +72,13 @@ Whether you have five or five thousand servers, Chef lets you manage them all by
 * [Integration with Chef Server](https://github.com/xmatters/xm-labs-chef-server)
 
 ## Dynatrace
+### Dynatrace
 Dynatrace is a leading performance and application monitoring application. This integration extends the alerting capabilities to use xMatters.
 * [One-way integration with Dynatrace](https://github.com/xmatters/xm-labs-dynatrace)
+
+### AppMon
+Dynatrace Application Monitoring provides all performance metrics in real time and detects and diagnoses problems automatically.
+* [Dynatrace AppMon](https://github.com/xMTinkerer/xm-labs-dynatrace-appmon)
 
 ## Jenkins
 Jenkins is the leading automation server. This integration allows recipients to respond to notifications from xMatters and update their builds in Jenkins.
