@@ -41,6 +41,7 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [StatusPage](#statuspage)
 - [BMC](#bmc)
   - [Remedy 9 - On Premise](#remedy-9---on-premise)
+  - [Remedy - On Demand](#remedy---on-demand)
 - [Chef](#chef)
   - [Chef Server](#chef-server)
   - [Chef Automate - Compliance](#chef-automate---compliance)
@@ -77,6 +78,10 @@ Integration for posting to StatusPage.io. This integration allows recipients to 
 ### Remedy 9 - On Premise
 Labs integration to Remedy 9 On Premise. This is the Remedy 8 integration available [here](https://support.xmatters.com/hc/en-us/articles/204282225), but for Remedy 9. Our engineering team has not officially validated this integration for Remedy 9, but this has been used several times in the field for Remedy 9. 
 * [Two-way Remedy 9 - On Premise integration with data sync](https://github.com/xmatters/xm-labs-bmc-remedy-9)
+
+### Remedy - On Demand
+Remedy On Demand is the cloud based solution for the Remedy ITSM platform. This itegration features notifications as well as response options that take action in Remedy. 
+* [Closed loop integration to Remedy On Demand](https://github.com/xmatters/xm-labs-remedyondemand)
 
 ## Chef
 ### Chef Server
