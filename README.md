@@ -39,13 +39,19 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [Alertus](#alertus)
 - [Atlassian](#atlassian)
   - [StatusPage](#statuspage)
+- [BMC](#bmc)
+  - [Remedy 9 - On Premise](#remedy-9---on-premise)
 - [Chef](#chef)
+  - [Chef Server](#chef-server)
+  - [Chef Automate - Compliance](#chef-automate---compliance)
+  - [Chef Automate - Generic Webhook](#chef-automate---generic-webhook)
 - [Dynatrace](#dynatrace)
   - [Dynatrace](#dynatrace)
   - [Application Monitoring](#appmon)
 - [Jenkins](#jenkins)
 - [Loggly](#loggly)
 - [Logz.io](#logzio)
+- [Nagios](#nagios)
 - [OverOps](#overops)
 - [SalesForce](#salesforce)
 - [Stackdriver](#stackdriver)
@@ -67,9 +73,23 @@ The Alertus integration allows xMatters to make limited desktop notifications. (
 Integration for posting to StatusPage.io. This integration allows recipients to create, update, and resolve incidents in StatusPage using the response options in the notifications.
 * [Create new incidents in StatusPage](https://github.com/xmatters/xm-labs-statuspage)
 
+## BMC
+### Remedy 9 - On Premise
+Labs integration to Remedy 9 On Premise. This is the Remedy 8 integration available [here](https://support.xmatters.com/hc/en-us/articles/204282225), but for Remedy 9. Our engineering team has not officially validated this integration for Remedy 9, but this has been used several times in the field for Remedy 9. 
+* [Two-way Remedy 9 - On Premise integration with data sync](https://github.com/xmatters/xm-labs-bmc-remedy-9)
+
 ## Chef
+### Chef Server
 Whether you have five or five thousand servers, Chef lets you manage them all by turning infrastructure into code. This integration lets you integrate xMatters and Chef Server at the Recipe level.
 * [Integration with Chef Server](https://github.com/xmatters/xm-labs-chef-server)
+
+### Chef Automate - Compliance
+This specific integration provides details on integrating with Chef Automate Compliance.
+* [Chef Automate Compliance integration](https://github.com/xmatters/xm-labs-chef-automate-compliance-webhook)
+
+### Chef Automate - Generic Webhook
+This specific integration provides details on integrating with Chef Automate Generic Webhook. 
+* [Chef Automate - Generic Webhook](https://github.com/xmatters/Chef-Automate-Generic-Webhook)
 
 ## Dynatrace
 ### Dynatrace
@@ -92,6 +112,10 @@ Loggly is a SaaS solution for log data management. This one-way integration will
 [Logz.io](https://logz.io/) is a cloud based implementation of the ELK stack. Using a Logz.io trial instance, this integration demonstrates the ease of passing log alerts into xMatters.
 * [One-way integration with Logz.io](https://github.com/xmatters/xm-labs-logz.io-elk)
 
+## Nagios
+Nagios is the tried and true monitoring application in use far and wide. This integration expands the notifications to leverage xMatters.
+* [One-way integration with Nagios](https://github.com/xmatters/xm-labs-nagios)
+
 ## OverOps
 OverOps is a leading monitoring solution that provides direct insight into code level issues. This one-way integration sends events into xMatters using the Webhook alerts feature in OverOps.
 * [One-way integration for OverOps](https://github.com/xmatters/xm-labs-overops)
@@ -106,8 +130,10 @@ Google Cloud's monitoring, logging and alerting platform gets the xMatters treat
 
 ## ServiceNow
 Our integration with ServiceNow is available via the ServiceNow store (see our [Support site](https://support.xmatters.com/hc/en-us/articles/213078983) for full details), but we're still working on making it better, and we have a couple of cool enhancements already. 
+
 ### Inform with xMatters
 * [Inform with xMatters](https://github.com/xmatters/xm-labs-snow-inform) - An "add-on" for ad-hoc FYI type notifications from ServiceNow. 
+
 ### CI Support Groups on Engage form
 * [CI Support Groups](https://github.com/xmatters/xm-labs-snow-ci-groups) - An "add-on" for including the upstream and downstream CI groups to the Engage with xMatters form. 
 
