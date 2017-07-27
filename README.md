@@ -55,6 +55,8 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [Nagios](#nagios)
 - [OverOps](#overops)
 - [SalesForce](#salesforce)
+- [SolarWinds](#solarwinds)
+  - [Papertrail](#papertrail)
 - [Stackdriver](#stackdriver)
 - [ServiceNow](#servicenow)
   - [Inform with xMatters](#inform-with-xmatters)
@@ -128,6 +130,11 @@ OverOps is a leading monitoring solution that provides direct insight into code 
 ## SalesForce
 SalesForce is ... well, it's SalesForce. With this integration, you can find out who is on call in xMatters to handle a new case whenever one is created.
 * [Who's On Call for SalesForce Case Management](https://github.com/xmatters/xm-labs-salesforce)
+
+## SolarWinds
+### Papertrail
+Papertrail is a cloud-hosted log management for faster troubleshooting of infrastructure and application issues.
+* [Alerts from Papertrail](https://github.com/xmatters/xm-labs-Papertrail)
 
 ## Stackdriver
 Google Cloud's monitoring, logging and alerting platform gets the xMatters treatment. Use this one-way integration to send Stackdriver alerts to recipients via xMatters.
