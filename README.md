@@ -101,7 +101,7 @@ This specific integration provides details on integrating with Chef Automate Gen
 ## Dynatrace
 ### Dynatrace
 Dynatrace is a leading performance and application monitoring application. This integration extends the alerting capabilities to use xMatters.
-* [One-way integration with Dynatrace](https://github.com/xmatters/xm-labs-dynatrace)
+* [Two-way integration with Dynatrace](https://github.com/xmatters/xm-labs-dynatrace)
 
 ### AppMon
 Dynatrace Application Monitoring provides all performance metrics in real time and detects and diagnoses problems automatically.
