@@ -38,6 +38,7 @@ Once you've completed the integration, it's time to post the artifacts to github
 # Contents
 - [Alertus](#alertus)
 - [Atlassian](#atlassian)
+  - [Bitbucket Pipeline](#bitbucket-pipeline)
   - [StatusPage](#statuspage)
 - [BMC](#bmc)
   - [Remedy 9 - On Premise](#remedy-9---on-premise)
@@ -56,6 +57,7 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [OverOps](#overops)
 - [SalesForce](#salesforce)
 - [SolarWinds](#solarwinds)
+  - [Librato](#librato)
   - [Papertrail](#papertrail)
 - [Stackdriver](#stackdriver)
 - [ServiceNow](#servicenow)
@@ -72,6 +74,10 @@ The Alertus integration allows xMatters to make limited desktop notifications. (
 * [One-way integration with Alertus](https://github.com/xmatters/xm-labs-alertus)
 
 ## Atlassian
+### Bitbucket Pipelines
+Pipelines are a powerful way to kick off build scripts from Bitbucket repos. Be notified and drive workflow on failed builds. 
+* [Failed Builds alerts integration with Pipelines](https://github.com/xmatters/xm-labs-bitbucket-pipeline)
+
 ### StatusPage
 Integration for posting to StatusPage.io. This integration allows recipients to create, update, and resolve incidents in StatusPage using the response options in the notifications.
 * [Create new incidents in StatusPage](https://github.com/xmatters/xm-labs-statuspage)
@@ -132,6 +138,10 @@ SalesForce is ... well, it's SalesForce. With this integration, you can find out
 * [Who's On Call for SalesForce Case Management](https://github.com/xmatters/xm-labs-salesforce)
 
 ## SolarWinds
+### Librato
+Librato provides real time monitoring dashboards to easily see and be alerted to any anomalous behavior. 
+* [One-way integration to Librato](https://github.com/xmatters/xm-labs-librato)
+
 ### Papertrail
 Papertrail is a cloud-hosted log management for faster troubleshooting of infrastructure and application issues.
 * [Alerts from Papertrail](https://github.com/xmatters/xm-labs-Papertrail)
