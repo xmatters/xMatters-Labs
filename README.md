@@ -63,6 +63,7 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [ServiceNow](#servicenow)
   - [Inform with xMatters](#inform-with-xmatters)
   - [CI Support Groups on Engage form](#ci-support-groups-on-engage-form)
+  - [Engage: Add to Existing Conference](#engage-add-to-existing-conference)
 - [Slack](#slack)
 - [Unified Infrastructure Manager](#unified-infrastructure-Manager)
 - [Zabbix](#zabbix)
@@ -158,6 +159,9 @@ Our integration with ServiceNow is available via the ServiceNow store (see our [
 
 ### CI Support Groups on Engage form
 * [CI Support Groups](https://github.com/xmatters/xm-labs-snow-ci-groups) - An "add-on" for including the upstream and downstream CI groups to the Engage with xMatters form. 
+
+### Engage: Add to Existing Conference
+* [Add to existing conference](https://github.com/xmatters/xm-labs-snow-engage-add) - Engage people and groups and invite them to an existing conference bridge. 
 
 ## Slack
 Slack is a fantastic chat application that's insanely - and deservedly - popular. We've put together a script library for use with the xMatters Integration Builder to help you interact easily with the Slack API hooks and endpoints.
