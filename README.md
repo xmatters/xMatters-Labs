@@ -44,7 +44,8 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [Remedy 9 - On Premise](#remedy-9---on-premise)
   - [Remedy - On Demand](#remedy---on-demand)
 - [CA](#CA)
-  - [CA - Agile Central](#ca---agile-central)
+  - [Agile Central](#agile-central)
+  - [Unified Infrastructure Manager](#unified-infrastructure-Manager)
 - [Chef](#chef)
   - [Chef Server](#chef-server)
   - [Chef Automate - Compliance](#chef-automate---compliance)
@@ -67,7 +68,6 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [CI Support Groups on Engage form](#ci-support-groups-on-engage-form)
   - [Engage: Add to Existing Conference](#engage-add-to-existing-conference)
 - [Slack](#slack)
-- [Unified Infrastructure Manager](#unified-infrastructure-Manager)
 - [Zabbix](#zabbix)
 
 
@@ -95,9 +95,13 @@ Remedy On Demand is the cloud based solution for the Remedy ITSM platform. This 
 * [Closed loop integration to Remedy On Demand](https://github.com/xmatters/xm-labs-remedyondemand)
 
 ## CA
-### CA - Agile Central
+### Agile Central
 Agile Central, formerly known as Rally, provides a hub for teams to collaboratively plan, prioritize and track work on a synchronized cadence.
 * [CA Agile Central](#https://github.com/xmatters/xm-labs-CA-Agile-Central-Rally)
+
+### Unified Infrastructure Manager
+CA UIM is a network management solution that monitoring availability and performance. This is a closed-loop integration that sends events into xMatters using a UIM probe, and sends response information back to the originating UIM ticket.
+* [Closed-loop integration for CA UIM](https://github.com/xmatters/xm-labs-ca-uim) 
 
 ## Chef
 ### Chef Server
@@ -173,10 +177,6 @@ Our integration with ServiceNow is available via the ServiceNow store (see our [
 ## Slack
 Slack is a fantastic chat application that's insanely - and deservedly - popular. We've put together a script library for use with the xMatters Integration Builder to help you interact easily with the Slack API hooks and endpoints.
 * [Shared library for Slack](https://github.com/xmatters/xm-labs-slack)
-
-## CA Unified Infrastructure Manager
-CA UIM is a network management solution that monitoring availability and performance. This is a closed-loop integration that sends events into xMatters using a UIM probe, and sends response information back to the originating UIM ticket.
-* [Closed-loop integration for CA UIM](https://github.com/xmatters/xm-labs-ca-uim) 
 
 ## Zabbix
 Zabbix is an open-source network monitoring solution. This integration extends the alerting capabilities to use xMatters, and sends response comments back to Zabbix.
