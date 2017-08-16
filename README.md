@@ -45,7 +45,7 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [Remedy - On Demand](#remedy---on-demand)
 - [CA](#CA)
   - [Agile Central](#agile-central)
-  - [Unified Infrastructure Manager](#unified-infrastructure-Manager)
+  - [Unified Infrastructure Manager](#unified-infrastructure-manager)
 - [Chef](#chef)
   - [Chef Server](#chef-server)
   - [Chef Automate - Compliance](#chef-automate---compliance)
