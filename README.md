@@ -58,6 +58,7 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [Logz.io](#logzio)
 - [Nagios](#nagios)
 - [OverOps](#overops)
+- [Prometheus](#prometheus)
 - [SalesForce](#salesforce)
 - [SolarWinds](#solarwinds)
   - [Librato](#librato)
@@ -144,6 +145,10 @@ Nagios is the tried and true monitoring application in use far and wide. This in
 ## OverOps
 OverOps is a leading monitoring solution that provides direct insight into code level issues. This one-way integration sends events into xMatters using the Webhook alerts feature in OverOps.
 * [One-way integration for OverOps](https://github.com/xmatters/xm-labs-overops)
+
+## Prometheus
+Prometheus is a leading open source time series database for getting application and system metrics. This one-way integration uses a webhook to fire AlertManager alerts to xMatters.
+* [Prometheus integration](https://github.com/xmatters/xm-labs-prometheus)
 
 ## SalesForce
 SalesForce is ... well, it's SalesForce. With this integration, you can find out who is on call in xMatters to handle a new case whenever one is created.
