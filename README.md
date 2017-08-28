@@ -41,6 +41,7 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [Bitbucket Pipeline](#bitbucket-pipeline)
   - [StatusPage](#statuspage)
 - [BMC](#bmc)
+  - [Control - M v9](#control---m-v9)
   - [Remedy 9 - On Premise](#remedy-9---on-premise)
   - [Remedy - On Demand](#remedy---on-demand)
 - [CA](#CA)
@@ -87,6 +88,10 @@ Integration for posting to StatusPage.io. This integration allows recipients to 
 * [Create new incidents in StatusPage](https://github.com/xmatters/xm-labs-statuspage)
 
 ## BMC
+### Control - M v9
+xM Labs closed loop integration for Control-M 9. For an engineering approved integration to Control-M v8, see [here](https://support.xmatters.com/hc/en-us/articles/202025245). 
+* [Closed loop with Control-M 9](https://github.com/xmatters/xm-labs-control-m-9)
+
 ### Remedy 9 - On Premise
 Labs integration to Remedy 9 On Premise. This is the Remedy 8 integration available [here](https://support.xmatters.com/hc/en-us/articles/204282225), but for Remedy 9. Our engineering team has not officially validated this integration for Remedy 9, but this has been used several times in the field for Remedy 9. 
 * [Closed loop Remedy 9 - On Premise integration with data sync](https://github.com/xmatters/xm-labs-bmc-remedy-9)
