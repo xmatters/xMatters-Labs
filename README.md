@@ -37,6 +37,7 @@ Once you've completed the integration, it's time to post the artifacts to github
 
 # Contents
 - [Alertus](#alertus)
+- [Amazon CloudWatch](#amazon-cloudwatch)
 - [Atlassian](#atlassian)
   - [Bitbucket Pipeline](#bitbucket-pipeline)
   - [StatusPage](#statuspage)
@@ -77,6 +78,10 @@ Once you've completed the integration, it's time to post the artifacts to github
 ## Alertus
 The Alertus integration allows xMatters to make limited desktop notifications. (The integration targets a group or organizational unit in Alertus; it does not add desktop notifications as a device type.)
 * [One-way integration with Alertus](https://github.com/xmatters/xm-labs-alertus)
+
+## Amazon CloudWatch
+CloudWatch is Amazon's monitoring arm for the AWS infrastructure. This is a one way integration to be notified of any alerts from CloudWatch.
+* [One-way integration with CloudWatch](https://github.com/xmatters/xm-labs-awscloudwatch)
 
 ## Atlassian
 ### Bitbucket Pipelines
