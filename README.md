@@ -65,6 +65,7 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [SolarWinds](#solarwinds)
   - [Librato](#librato)
   - [Papertrail](#papertrail)
+  - [ThousandEyes](#thousandeyes)
 - [Stackdriver](#stackdriver)
 - [ServiceNow](#servicenow)
   - [Inform with xMatters](#inform-with-xmatters)
@@ -172,6 +173,10 @@ Librato provides real time monitoring dashboards to easily see and be alerted to
 ### Papertrail
 Papertrail is a cloud-hosted log management for faster troubleshooting of infrastructure and application issues.
 * [Alerts from Papertrail](https://github.com/xmatters/xm-labs-Papertrail)
+
+### ThousandEyes
+ThousandEyes sees all and can send alerts based on a large variety of network related criteria. 
+* [Alerts from ThousandEyes](https://github.com/xmatters/xm-labs-thousandeyes)
 
 ## Stackdriver
 Google Cloud's monitoring, logging and alerting platform gets the xMatters treatment. Use this one-way integration to send Stackdriver alerts to recipients via xMatters.
