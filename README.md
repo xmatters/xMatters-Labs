@@ -39,7 +39,7 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [Alertus](#alertus)
 - [Amazon CloudWatch](#amazon-cloudwatch)
 - [Atlassian](#atlassian)
-  - [Bitbucket Pipeline](#bitbucket-pipeline)
+  - [Bitbucket Pipelines](#bitbucket-pipelines)
   - [StatusPage](#statuspage)
 - [BMC](#bmc)
   - [Control - M v9](#control---m-v9)
