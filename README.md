@@ -109,7 +109,7 @@ Remedy On Demand is the cloud based solution for the Remedy ITSM platform. This 
 ## CA
 ### Agile Central
 Agile Central, formerly known as Rally, provides a hub for teams to collaboratively plan, prioritize and track work on a synchronized cadence.
-* [CA Agile Central](#https://github.com/xmatters/xm-labs-CA-Agile-Central-Rally)
+* [CA Agile Central](https://github.com/xmatters/xm-labs-CA-Agile-Central-Rally)
 
 ### Unified Infrastructure Manager
 CA UIM is a network management solution that monitoring availability and performance. This is a closed-loop integration that sends events into xMatters using a UIM probe, and sends response information back to the originating UIM ticket.
