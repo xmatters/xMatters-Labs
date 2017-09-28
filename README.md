@@ -72,6 +72,8 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [CI Support Groups on Engage form](#ci-support-groups-on-engage-form)
   - [Engage: Add to Existing Conference](#engage-add-to-existing-conference)
 - [Slack](#slack)
+- [xMatters](#xmatters)
+  - [Shift Gaps](#shift-gaps)
 - [Zabbix](#zabbix)
 
 
@@ -197,6 +199,10 @@ Our integration with ServiceNow is available via the ServiceNow store (see our [
 ## Slack
 Slack is a fantastic chat application that's insanely - and deservedly - popular. We've put together a script library for use with the xMatters Integration Builder to help you interact easily with the Slack API hooks and endpoints.
 * [Shared library for Slack](https://github.com/xmatters/xm-labs-slack)
+
+## xMatters
+Check out this sweet shift gaps notification tool from Paul Dansey. It will find any gaps in the shifts in the groups specified and send a notification with the details. 
+* [Shift gap tool](https://github.com/xmatters/xM-Labs-Shift_Gaps)
 
 ## Zabbix
 Zabbix is an open-source network monitoring solution. This integration extends the alerting capabilities to use xMatters, and sends response comments back to Zabbix.
