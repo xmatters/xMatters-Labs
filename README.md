@@ -62,16 +62,17 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [OverOps](#overops)
 - [Prometheus](#prometheus)
 - [SalesForce](#salesforce)
+- [ServiceNow](#servicenow)
+  - [Inform with xMatters](#inform-with-xmatters)
+  - [CI Support Groups on Engage form](#ci-support-groups-on-engage-form)
+  - [Engage: Add to Existing Conference](#engage-add-to-existing-conference)
+- [SignalFx](#signalfx)
+- [Slack](#slack)
 - [SolarWinds](#solarwinds)
   - [Librato](#librato)
   - [Papertrail](#papertrail)
   - [ThousandEyes](#thousandeyes)
 - [Stackdriver](#stackdriver)
-- [ServiceNow](#servicenow)
-  - [Inform with xMatters](#inform-with-xmatters)
-  - [CI Support Groups on Engage form](#ci-support-groups-on-engage-form)
-  - [Engage: Add to Existing Conference](#engage-add-to-existing-conference)
-- [Slack](#slack)
 - [xMatters](#xmatters)
   - [Shift Gaps](#shift-gaps)
 - [Zabbix](#zabbix)
@@ -167,6 +168,27 @@ Prometheus is a leading open source time series database for getting application
 SalesForce is ... well, it's SalesForce. With this integration, you can find out who is on call in xMatters to handle a new case whenever one is created.
 * [Who's On Call for SalesForce Case Management](https://github.com/xmatters/xm-labs-salesforce)
 
+## ServiceNow
+Our integration with ServiceNow is available via the ServiceNow store (see our [Support site](https://support.xmatters.com/hc/en-us/articles/213078983) for full details), but we're still working on making it better, and we have a couple of cool enhancements already. 
+
+### Inform with xMatters
+* [Inform with xMatters](https://github.com/xmatters/xm-labs-snow-inform) - An "add-on" for ad-hoc FYI type notifications from ServiceNow. 
+
+### CI Support Groups on Engage form
+* [CI Support Groups](https://github.com/xmatters/xm-labs-snow-ci-groups) - An "add-on" for including the upstream and downstream CI groups to the Engage with xMatters form. 
+
+### Engage: Add to Existing Conference
+* [Add to existing conference](https://github.com/xmatters/xm-labs-snow-engage-add) - Engage people and groups and invite them to an existing conference bridge. 
+
+## SignalFx
+Get alerts from all layers of the microservices of your application with the xMatters integration to SignalFx
+* [Two-way SignalFx integration](https://github.com/xmatters/xm-labs-signalfx)
+
+## Slack
+Slack is a fantastic chat application that's insanely - and deservedly - popular. We've put together a script library for use with the xMatters Integration Builder to help you interact easily with the Slack API hooks and endpoints.
+* [Shared library for Slack](https://github.com/xmatters/xm-labs-slack)
+
+
 ## SolarWinds
 ### Librato
 Librato provides real time monitoring dashboards to easily see and be alerted to any anomalous behavior. 
@@ -183,22 +205,6 @@ ThousandEyes sees all and can send alerts based on a large variety of network re
 ## Stackdriver
 Google Cloud's monitoring, logging and alerting platform gets the xMatters treatment. Use this one-way integration to send Stackdriver alerts to recipients via xMatters.
 * [One-way integration to Stackdriver](https://github.com/xmatters/xm-labs-stackdriver)
-
-## ServiceNow
-Our integration with ServiceNow is available via the ServiceNow store (see our [Support site](https://support.xmatters.com/hc/en-us/articles/213078983) for full details), but we're still working on making it better, and we have a couple of cool enhancements already. 
-
-### Inform with xMatters
-* [Inform with xMatters](https://github.com/xmatters/xm-labs-snow-inform) - An "add-on" for ad-hoc FYI type notifications from ServiceNow. 
-
-### CI Support Groups on Engage form
-* [CI Support Groups](https://github.com/xmatters/xm-labs-snow-ci-groups) - An "add-on" for including the upstream and downstream CI groups to the Engage with xMatters form. 
-
-### Engage: Add to Existing Conference
-* [Add to existing conference](https://github.com/xmatters/xm-labs-snow-engage-add) - Engage people and groups and invite them to an existing conference bridge. 
-
-## Slack
-Slack is a fantastic chat application that's insanely - and deservedly - popular. We've put together a script library for use with the xMatters Integration Builder to help you interact easily with the Slack API hooks and endpoints.
-* [Shared library for Slack](https://github.com/xmatters/xm-labs-slack)
 
 ## xMatters
 Check out this sweet shift gaps notification tool from Paul Dansey. It will find any gaps in the shifts in the groups specified and send a notification with the details. 
