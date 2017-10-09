@@ -44,6 +44,7 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [BMC](#bmc)
   - [Control - M v9](#control---m-v9)
   - [Remedy 9 - On Premise](#remedy-9---on-premise)
+  - [Remedy 8 - On Premise - Work Log](#remedy-8---on-premise---work-log)
   - [Remedy - On Demand](#remedy---on-demand)
 - [CA](#CA)
   - [Agile Central](#agile-central)
@@ -104,6 +105,10 @@ xM Labs closed loop integration for Control-M 9. For an engineering approved int
 ### Remedy 9 - On Premise
 Labs integration to Remedy 9 On Premise. This is the Remedy 8 integration available [here](https://support.xmatters.com/hc/en-us/articles/204282225), but for Remedy 9. Our engineering team has not officially validated this integration for Remedy 9, but this has been used several times in the field for Remedy 9. 
 * [Closed loop Remedy 9 - On Premise integration with data sync](https://github.com/xmatters/xm-labs-bmc-remedy-9)
+
+### Remedy 8 - On Premise - Work Log
+This is a work log integration to tell xMatters to write to a Remedy Incident work log from any other integration via the integration agent.  
+* [Remedy 8 On Premise Work Log integration](https://github.com/xmatters/xm-labs-xmatters_remedy_return)
 
 ### Remedy - On Demand
 Remedy On Demand is the cloud based solution for the Remedy ITSM platform. This itegration features notifications as well as response options that take action in Remedy. 
