@@ -3,7 +3,13 @@
 # xMatters-Labs
 Welcome to xMatters Labs, the official/unofficial Research and Development wing of xMatters, inc., and home to the most cutting-edge integrations on offer.
 
-This is a curated list of useful in-progress integrations, interesting code samples, and other experiments, and as such we can provide only limited support. If you run into any problems, open an issue here on GitHub and we'll see what we can do. 
+---------
+
+<kbd>
+  <img src="https://github.com/xmatters/xMatters-Labs/raw/master/media/disclaimer.png">
+</kbd>
+
+---------
 
 For a full list of our current integrations, head over to [xmatters.com/integrations](https://www.xmatters.com/integrations). 
 
@@ -216,6 +222,7 @@ Google Cloud's monitoring, logging and alerting platform gets the xMatters treat
 * [One-way integration to Stackdriver](https://github.com/xmatters/xm-labs-stackdriver)
 
 ## xMatters
+### Shift Gaps
 Check out this sweet shift gaps notification tool from Paul Dansey. It will find any gaps in the shifts in the groups specified and send a notification with the details. 
 * [Shift gap tool](https://github.com/xmatters/xM-Labs-Shift_Gaps)
 
