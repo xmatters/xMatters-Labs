@@ -73,7 +73,7 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [Inform with xMatters](#inform-with-xmatters)
   - [CI Support Groups on Engage form](#ci-support-groups-on-engage-form)
   - [Engage: Add to Existing Conference](#engage-add-to-existing-conference)
-  - [Enage: Post to Chat](#engage-post-to-chat)
+  - [Engage: Post to Chat](#engage-post-to-chat)
 - [SignalFx](#signalfx)
 - [Slack](#slack)
 - [SolarWinds](#solarwinds)
@@ -192,7 +192,7 @@ Our integration with ServiceNow is available via the ServiceNow store (see our [
 ### Engage: Add to Existing Conference
 * [Add to existing conference](https://github.com/xmatters/xm-labs-snow-engage-add) - Engage people and groups and invite them to an existing conference bridge. 
 
-### Enage: Post to Chat
+### Engage: Post to Chat
 * [Post message to Chat](https://github.com/xmatters/xm-labs-snow-engage-chat) - An "add-on" for creating a chat room and posting a link to the Incident.   
 
 ## SignalFx
