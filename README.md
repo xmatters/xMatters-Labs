@@ -62,6 +62,7 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [Dynatrace](#dynatrace)
   - [Dynatrace](#dynatrace)
   - [Application Monitoring](#appmon)
+- [Grafana](#grafana)
 - [Jenkins](#jenkins)
 - [Loggly](#loggly)
 - [Logz.io](#logzio)
@@ -151,6 +152,10 @@ Dynatrace is a leading performance and application monitoring application. This 
 ### AppMon
 Dynatrace Application Monitoring provides all performance metrics in real time and detects and diagnoses problems automatically.
 * [Dynatrace AppMon](https://github.com/xmatters/xm-labs-dynatrace-appmon)
+
+## Grafana
+Get xMatters notifications for all metrics in Grafana. 
+* [Grafana closed loop integration](https://github.com/xmatters/xm-labs-grafana)
 
 ## Jenkins
 Jenkins is the leading automation server. This integration allows recipients to respond to notifications from xMatters and update their builds in Jenkins.
