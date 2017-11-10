@@ -63,6 +63,8 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [Dynatrace](#dynatrace)
   - [Application Monitoring](#appmon)
 - [Grafana](#grafana)
+- [HP](#hp)
+  - [OMi](#omi)
 - [Jenkins](#jenkins)
 - [Loggly](#loggly)
 - [Logz.io](#logzio)
@@ -156,6 +158,11 @@ Dynatrace Application Monitoring provides all performance metrics in real time a
 ## Grafana
 Get xMatters notifications for all metrics in Grafana. 
 * [Grafana closed loop integration](https://github.com/xmatters/xm-labs-grafana)
+
+## HP
+### OMi
+The HP OMi closed loop integration provides real-time notifications to quickly respond to critical events
+* [HP OMi closed loop integration](https://github.com/xmatters/xm-labs-hpomi)
 
 ## Jenkins
 Jenkins is the leading automation server. This integration allows recipients to respond to notifications from xMatters and update their builds in Jenkins.
