@@ -64,6 +64,7 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [Application Monitoring](#appmon)
 - [Grafana](#grafana)
 - [HP](#hp)
+  - [NNMi](#nnmi)
   - [OMi](#omi)
 - [Jenkins](#jenkins)
 - [Loggly](#loggly)
@@ -162,6 +163,10 @@ Get xMatters notifications for all metrics in Grafana.
 * [Grafana closed loop integration](https://github.com/xmatters/xm-labs-grafana)
 
 ## HP
+### NNMi
+The HP NNMi closed loop integration triggers based on defined Incident criteria and allows users to take ownership and close Incidents in NNMi.
+* [HP NNMi closed loop integration](https://github.com/xmatters/xm-labs-hp-nnmi)
+
 ### OMi
 The HP OMi closed loop integration provides real-time notifications to quickly respond to critical events
 * [HP OMi closed loop integration](https://github.com/xmatters/xm-labs-hpomi)
