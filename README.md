@@ -63,7 +63,7 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [Dynatrace](#dynatrace)
   - [Application Monitoring](#appmon)
 - [Grafana](#grafana)
-- [HipChat](#HipChat)
+- [HipChat](#hipchat)
 - [HP](#hp)
   - [NNMi](#nnmi)
   - [OMi](#omi)
