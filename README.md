@@ -83,7 +83,6 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [Engage: Problem Management](#engage-problem-management)
   - [Engage: Post to Chat](#engage-post-to-chat)
   - [Event log](#event-log)
-  - [Role Sync](#role-sync)
 - [SignalFx](#signalfx)
 - [Slack](#slack)
 - [SolarWinds](#solarwinds)
