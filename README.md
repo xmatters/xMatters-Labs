@@ -90,6 +90,7 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [Papertrail](#papertrail)
   - [ThousandEyes](#thousandeyes)
 - [Stackdriver](#stackdriver)
+- [Terraform](#terraform)
 - [xMatters](#xmatters)
   - [Shift Gaps](#shift-gaps)
   - [IA-Heartbeat](#ia-heartbeat)
@@ -263,6 +264,9 @@ ThousandEyes sees all and can send alerts based on a large variety of network re
 ## Stackdriver
 Google Cloud's monitoring, logging and alerting platform gets the xMatters treatment. Use this one-way integration to send Stackdriver alerts to recipients via xMatters.
 * [One-way integration to Stackdriver](https://github.com/xmatters/xm-labs-stackdriver)
+
+## Terraform
+* [Terraform one way integration](https://github.com/xmatters/xM-Labs-Terraform)
 
 ## xMatters
 ### Shift Gaps
