@@ -83,6 +83,7 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [Engage: Problem Management](#engage-problem-management)
   - [Engage: Post to Chat](#engage-post-to-chat)
   - [Event log](#event-log)
+  - [Role Sync](#role-sync)
 - [SignalFx](#signalfx)
 - [Slack](#slack)
 - [SolarWinds](#solarwinds)
@@ -238,6 +239,10 @@ Our integration with ServiceNow is available via the ServiceNow store (see our [
 ### Event log
 This integration adds the event status, response and delivery information to a table within ServiceNow. This makes for an easy source of reporting. 
 * [Event log for ServiceNow](https://github.com/xmatters/xm-labs-servicenow-event-log)
+
+### Role Sync
+This is an addon to the ServiceNow integration to allow ServiceNow admins to determine what xMatters roles a user inherits when they are sync'ed to xMatters.
+* [Role sync for users](https://github.com/xmatters/xM-Labs-Terraform)
 
 ## SignalFx
 Get alerts from all layers of the microservices of your application with the xMatters integration to SignalFx
