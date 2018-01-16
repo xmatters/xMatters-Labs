@@ -82,6 +82,7 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [Engage: Add to Existing Conference](#engage-add-to-existing-conference)
   - [Engage: Problem Management](#engage-problem-management)
   - [Engage: Post to Chat](#engage-post-to-chat)
+  - [Event log](#event-log)
 - [SignalFx](#signalfx)
 - [Slack](#slack)
 - [SolarWinds](#solarwinds)
@@ -232,6 +233,10 @@ Our integration with ServiceNow is available via the ServiceNow store (see our [
 
 ### Engage: Post to Chat
 * [Post message to Chat](https://github.com/xmatters/xm-labs-snow-engage-chat) - An "add-on" for creating a chat room and posting a link to the Incident.   
+
+### Event log
+This integration adds the event status, response and delivery information to a table within ServiceNow. This makes for an easy source of reporting. 
+* [Event log for ServiceNow](https://github.com/xmatters/xm-labs-servicenow-event-log)
 
 ## SignalFx
 Get alerts from all layers of the microservices of your application with the xMatters integration to SignalFx
