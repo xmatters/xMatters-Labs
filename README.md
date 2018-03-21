@@ -71,6 +71,8 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [Jenkins](#jenkins)
 - [Loggly](#loggly)
 - [Logz.io](#logzio)
+- [Microsoft](#microsoft)
+  - [SCOM 2012](#scom-2012)
 - [Nagios Core](#nagios-core)
 - [Nagios XI](#nagios-xi)
 - [OverOps](#overops)
@@ -196,6 +198,11 @@ Loggly is a SaaS solution for log data management. This one-way integration will
 ## Logz.io
 [Logz.io](https://logz.io/) is a cloud based implementation of the ELK stack. Using a Logz.io trial instance, this integration demonstrates the ease of passing log alerts into xMatters.
 * [One-way integration with Logz.io](https://github.com/xmatters/xm-labs-logz.io-elk)
+
+## Microsoft
+
+### SCOM 2012
+* [Closed Loop integration with SCOM 2012](https://github.com/xmatters/xm-labs-msscom-2012)
 
 ## Nagios Core
 Nagios Core is the tried and true monitoring application in use far and wide. This integration expands the notifications to leverage xMatters. If you are looking for Nagios XI, see [here](https://www.xmatters.com/integration/nagios-xi/)
