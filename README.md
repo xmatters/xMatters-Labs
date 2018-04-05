@@ -46,6 +46,7 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [Amazon CloudWatch](#amazon-cloudwatch)
 - [Atlassian](#atlassian)
   - [Bitbucket Pipelines](#bitbucket-pipelines)
+  - [Jira](#jira)
   - [StatusPage](#statuspage)
 - [BMC](#bmc)
   - [Control - M v9](#control---m-v9)
@@ -111,6 +112,10 @@ CloudWatch is Amazon's monitoring arm for the AWS infrastructure. This is a one 
 ### Bitbucket Pipelines
 Pipelines are a powerful way to kick off build scripts from Bitbucket repos. Be notified and drive workflow on failed builds. 
 * [Failed Builds alerts integration with Pipelines](https://github.com/xmatters/xm-labs-bitbucket-pipeline)
+
+### Jira
+This integration is a branch from the main Jira Server integration to provide a "Post to HipChat Room" option in the Engage with xMatters dialog. 
+* [Jira Chat Enhancement)(https://github.com/xmatters/xm-labs-jira-chat)
 
 ### StatusPage
 Integration for posting to StatusPage.io. This integration allows recipients to create, update, and resolve incidents in StatusPage using the response options in the notifications.
