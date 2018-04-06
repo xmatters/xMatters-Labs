@@ -115,7 +115,7 @@ Pipelines are a powerful way to kick off build scripts from Bitbucket repos. Be 
 
 ### Jira
 This integration is a branch from the main Jira Server integration to provide a "Post to HipChat Room" option in the Engage with xMatters dialog. 
-* [Jira Chat Enhancement)(https://github.com/xmatters/xm-labs-jira-chat)
+* [Jira Chat Enhancement](https://github.com/xmatters/xm-labs-jira-chat)
 
 ### StatusPage
 Integration for posting to StatusPage.io. This integration allows recipients to create, update, and resolve incidents in StatusPage using the response options in the notifications.
