@@ -69,6 +69,7 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [HP](#hp)
   - [NNMi](#nnmi)
   - [OMi](#omi)
+  - [SiteScope](#sitescope)
 - [Jenkins](#jenkins)
 - [Loggly](#loggly)
 - [Logz.io](#logzio)
@@ -189,8 +190,12 @@ The HP NNMi closed loop integration triggers based on defined Incident criteria 
 * [HP NNMi closed loop integration](https://github.com/xmatters/xm-labs-hp-nnmi)
 
 ### OMi
-The HP OMi closed loop integration provides real-time notifications to quickly respond to critical events
+The HP OMi closed loop integration provides real-time notifications to quickly respond to critical events.
 * [HP OMi closed loop integration](https://github.com/xmatters/xm-labs-hpomi)
+
+### SiteScope
+One way integration to SiteScope
+* [HP SiteScope](https://github.com/xmatters/xm-labs-sitescope)
 
 ## Jenkins
 Jenkins is the leading automation server. This integration allows recipients to respond to notifications from xMatters and update their builds in Jenkins.
