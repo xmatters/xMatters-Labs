@@ -64,6 +64,7 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [Dynatrace](#dynatrace)
   - [Dynatrace](#dynatrace)
   - [Application Monitoring](#appmon)
+- [EasyVista](#easyvista)
 - [Grafana](#grafana)
 - [HipChat](#hipchat)
 - [HP](#hp)
@@ -175,6 +176,10 @@ Dynatrace is a leading performance and application monitoring application. This 
 ### AppMon
 Dynatrace Application Monitoring provides all performance metrics in real time and detects and diagnoses problems automatically.
 * [Dynatrace AppMon](https://github.com/xmatters/xm-labs-dynatrace-appmon)
+
+## EasyVista
+Closed loop integration to EasyVista Incidents
+* [EasyVista](https://github.com/xmatters/xm-labs-easyvista)
 
 ## Grafana
 Get xMatters notifications for all metrics in Grafana. 
