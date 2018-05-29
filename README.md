@@ -79,6 +79,7 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [Nagios Core](#nagios-core)
 - [Nagios XI](#nagios-xi)
 - [OverOps](#overops)
+- [Postman](#postman)
 - [Prometheus](#prometheus)
 - [SalesForce](#salesforce)
 - [ServiceNow](#servicenow)
@@ -233,6 +234,10 @@ Nagios is a long favored monitoring solution for companies across the spectrum. 
 ## OverOps
 OverOps is a leading monitoring solution that provides direct insight into code level issues. This one-way integration sends events into xMatters using the Webhook alerts feature in OverOps.
 * [One-way integration for OverOps](https://github.com/xmatters/xm-labs-overops)
+
+## Postman
+Postman is a great way to play with APIs without writing code. This is a Collection to get you up and running with minimal effort to interact with all the xMatters APIs. 
+* [Postman Collection](https://github.com/xmatters/xm-labs-PostMan-APIs)
 
 ## Prometheus
 Prometheus is a leading open source time series database for getting application and system metrics. This one-way integration uses a webhook to fire AlertManager alerts to xMatters.
