@@ -220,8 +220,7 @@ Loggly is a SaaS solution for log data management. This one-way integration will
 ## Microsoft
 ### Teams
 Teams from Microsoft is the latest ChatOps tool for online collaboration. This is a bot to facilitate communication with Teams and xMatters.
-   - [MS Teams Bot](https://github.com/xmatters/xm-labs-MSTeams)
-
+   - [MS Teams Bot](https://github.com/xmatters/xm-labs-ms-teams)
 
 ## Nagios Core
 Nagios Core is the tried and true monitoring application in use far and wide. This integration expands the notifications to leverage xMatters. If you are looking for Nagios XI, see [here](https://www.xmatters.com/integration/nagios-xi/)
