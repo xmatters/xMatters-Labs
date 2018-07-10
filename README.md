@@ -78,6 +78,7 @@ Once you've completed the integration, it's time to post the artifacts to github
    - [Teams](#teams)
 - [Nagios Core](#nagios-core)
 - [Nagios XI](#nagios-xi)
+- [Oracle Cloud Control](#oracle-cloud-control)
 - [OverOps](#overops)
 - [Postman](#postman)
 - [Prometheus](#prometheus)
@@ -229,6 +230,10 @@ Nagios Core is the tried and true monitoring application in use far and wide. Th
 ## Nagios XI
 Nagios is a long favored monitoring solution for companies across the spectrum. XI adds much functionality and commercial support.
 * [Closed loop integration with Nagios XI](https://github.com/xmatters/xm-labs-nagiosxi)
+
+## Oracle Cloud Control
+Cloud Control is Oracle's solution for monitoring and managing enterprise clouds and traditional Oracle IT environments from a single console. 
+* [Cloud Control](https://github.com/xmatters/xm-labs-oracle-cloud-control)
 
 ## OverOps
 OverOps is a leading monitoring solution that provides direct insight into code level issues. This one-way integration sends events into xMatters using the Webhook alerts feature in OverOps.
