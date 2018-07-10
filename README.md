@@ -76,6 +76,7 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [Logz.io](#logzio)
 - [Microsoft](#microsoft)
    - [Teams](#teams)
+   - [Azure](#azure)
 - [Nagios Core](#nagios-core)
 - [Nagios XI](#nagios-xi)
 - [Oracle Cloud Control](#oracle-cloud-control)
@@ -222,6 +223,10 @@ Loggly is a SaaS solution for log data management. This one-way integration will
 ### Teams
 Teams from Microsoft is the latest ChatOps tool for online collaboration. This is a bot to facilitate communication with Teams and xMatters.
    - [MS Teams Bot](https://github.com/xmatters/xm-labs-ms-teams)
+
+### Azure
+Azure is the cloud services offering from Microsoft. Give DevOps teams the power to drive process with this xMatters integration
+   - [MS Azure](https://github.com/xmatters/azure-monitor-integration)
 
 ## Nagios Core
 Nagios Core is the tried and true monitoring application in use far and wide. This integration expands the notifications to leverage xMatters. If you are looking for Nagios XI, see [here](https://www.xmatters.com/integration/nagios-xi/)
