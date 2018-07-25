@@ -100,9 +100,10 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [Stackdriver](#stackdriver)
 - [Terraform](#terraform)
 - [xMatters](#xmatters)
-  - [Shift Gaps](#shift-gaps)
-  - [IA-Heartbeat](#ia-heartbeat)
   - [Dummy Event Generator](#dummy-event-generator)
+  - [IA-Heartbeat](#ia-heartbeat)
+  - [Post Event Report](#post-event-report)
+  - [Shift Gaps](#shift-gaps)
 - [Zabbix](#zabbix)
 
 
@@ -311,14 +312,16 @@ Google Cloud's monitoring, logging and alerting platform gets the xMatters treat
 ### Dummy Event Generator
 * [Script to generate some dummy event data](https://github.com/xMTinkerer/xm-labs-dummy-event-generator)
 
-### Shift Gaps
-Check out this sweet shift gaps notification tool from Paul Dansey. It will find any gaps in the shifts in the groups specified and send a notification with the details. 
-* [Shift gap tool](https://github.com/xmatters/xM-Labs-Shift_Gaps)
-
 ### IA Heartbeat
 This slick integration helps to alert when the Integration Agent misses a heartbeat, indicating it lost connection to xMatters. 
 * [IA Heartbeat alerting](https://github.com/xmatters/IA-Heartbeat)
 
+### Post Event Report
+* [Generate a post event report from xMatters](https://github.com/xmatters/xm-labs-post-event-report)
+
+### Shift Gaps
+Check out this sweet shift gaps notification tool from Paul Dansey. It will find any gaps in the shifts in the groups specified and send a notification with the details. 
+* [Shift gap tool](https://github.com/xmatters/xM-Labs-Shift_Gaps)
 
 
 ## Zabbix
