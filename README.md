@@ -286,7 +286,7 @@ Get alerts from all layers of the microservices of your application with the xMa
 
 ## Site24x7
 Site24x7.com provides an array of monitoring capabilities and this integration extends it with the xMatters integration and collaboration platform capabilities. 
-* [Site24x7 Integration](https://github.com/xmatters/xm-labs-site24x7.com)
+* [Site24x7 Integration](https://github.com/xmatters/xm-labs-site24x7)
 
 ## Slack
 Slack is a fantastic chat application that's insanely - and deservedly - popular. We've put together a script library for use with the xMatters Integration Builder to help you interact easily with the Slack API hooks and endpoints.
