@@ -285,7 +285,7 @@ Get alerts from all layers of the microservices of your application with the xMa
 * [Two-way SignalFx integration](https://github.com/xmatters/xm-labs-signalfx)
 
 ## Site24x7
-Site24x7.com provides an array of monitoring capabilities and this integration extends it with the xMatters integration and collaboration platform capabilities. 
+Site24x7 provides an array of monitoring capabilities and this integration extends it with the xMatters integration and collaboration platform capabilities. 
 * [Site24x7 Integration](https://github.com/xmatters/xm-labs-site24x7)
 
 ## Slack
