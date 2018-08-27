@@ -92,7 +92,7 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [Engage: Post to Chat](#engage-post-to-chat)
   - [Event log](#event-log)
 - [SignalFx](#signalfx)
-- [Site24x7](site24x7)
+- [Site24x7](#site24x7)
 - [Slack](#slack)
 - [SolarWinds](#solarwinds)
   - [Librato](#librato)
