@@ -91,6 +91,7 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [Engage: Problem Management](#engage-problem-management)
   - [Engage: Post to Chat](#engage-post-to-chat)
   - [Event log](#event-log)
+  - [Major Incident Module](#major-incident-module)
 - [SignalFx](#signalfx)
 - [Site24x7](#site24x7)
 - [Slack](#slack)
@@ -279,6 +280,10 @@ Our integration with ServiceNow is available via the ServiceNow store (see our [
 ### Event log
 This integration adds the event status, response and delivery information to a table within ServiceNow. This makes for an easy source of reporting. 
 * [Event log for ServiceNow](https://github.com/xmatters/xm-labs-servicenow-event-log)
+
+### Major Incident Module
+The Major Incident Module in ServiceNow adds specific functionality around Major Incidents. This integration adds the power of xMatters.
+* [Major Incident](https://github.com/xmatters/xm-labs-ServiceNow-Major-Incident-Enhancement)
 
 ## SignalFx
 Get alerts from all layers of the microservices of your application with the xMatters integration to SignalFx
