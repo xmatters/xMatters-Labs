@@ -100,6 +100,8 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [Librato](#librato)
   - [Papertrail](#papertrail)
   - [ThousandEyes](#thousandeyes)
+- [Splunk](#splunk)
+  - [Custom Messages](#custom-messages)
 - [Stackdriver](#stackdriver)
 - [Terraform](#terraform)
 - [xMatters](#xmatters)
@@ -302,7 +304,6 @@ Site24x7 provides an array of monitoring capabilities and this integration exten
 Slack is a fantastic chat application that's insanely - and deservedly - popular. We've put together a script library for use with the xMatters Integration Builder to help you interact easily with the Slack API hooks and endpoints.
 * [Shared library for Slack](https://github.com/xmatters/xm-labs-slack)
 
-
 ## SolarWinds
 ### Librato
 Librato provides real time monitoring dashboards to easily see and be alerted to any anomalous behavior. 
@@ -315,6 +316,11 @@ Papertrail is a cloud-hosted log management for faster troubleshooting of infras
 ### ThousandEyes
 ThousandEyes sees all and can send alerts based on a large variety of network related criteria. 
 * [Alerts from ThousandEyes](https://github.com/xmatters/xm-labs-thousandeyes)
+
+## Splunk
+### Custom Messages
+With this revamped Splunk integration, you can add custom meta information to the Splunk alert. 
+* [Custom Messages](https://github.com/xmatters/xm-labs-splunk-custom-messages)
 
 ## Stackdriver
 Google Cloud's monitoring, logging and alerting platform gets the xMatters treatment. Use this one-way integration to send Stackdriver alerts to recipients via xMatters.
