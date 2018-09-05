@@ -87,7 +87,6 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [ServiceNow](#servicenow)
   - [Inform with xMatters](#inform-with-xmatters)
   - [CI Support Groups on Engage form](#ci-support-groups-on-engage-form)
-  - [Engage: Add to Existing Conference](#engage-add-to-existing-conference)
   - [Engage: Problem Management](#engage-problem-management)
   - [Engage: Post to Chat](#engage-post-to-chat)
   - [Event log](#event-log)
@@ -270,9 +269,6 @@ Our integration with ServiceNow is available via the ServiceNow store (see our [
 
 ### CI Support Groups on Engage form
 * [CI Support Groups](https://github.com/xmatters/xm-labs-snow-ci-groups) - An "add-on" for including the upstream and downstream CI groups to the Engage with xMatters form. 
-
-### Engage: Add to Existing Conference
-* [Add to existing conference](https://github.com/xmatters/xm-labs-snow-engage-add) - Engage people and groups and invite them to an existing conference bridge. 
 
 ### Engage: Problem Management
 * [Add Engage with xMatters to Problem Management](https://github.com/xmatters/xm-labs-snow-engage-problem)
