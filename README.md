@@ -106,6 +106,7 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [xMatters](#xmatters)
   - [Dummy Event Generator](#dummy-event-generator)
   - [IA-Heartbeat](#ia-heartbeat)
+  - [Initiate by phone](#initiate-by-phone)
   - [Post Event Report](#post-event-report)
   - [Shift Gaps](#shift-gaps)
 - [Zabbix](#zabbix)
@@ -332,6 +333,10 @@ Google Cloud's monitoring, logging and alerting platform gets the xMatters treat
 ### IA Heartbeat
 This slick integration helps to alert when the Integration Agent misses a heartbeat, indicating it lost connection to xMatters. 
 * [IA Heartbeat alerting](https://github.com/xmatters/IA-Heartbeat)
+
+### Initiate by phone
+Levraging the tools of Twilio, this integration kicks off an event initiated by calling into a phone number.
+* [Initiate by phone](https://github.com/xmatters/xm-labs-xMatters-By-Phone)
 
 ### Post Event Report
 * [Generate a post event report from xMatters](https://github.com/xmatters/xm-labs-post-event-report)
