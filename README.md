@@ -74,6 +74,7 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [Jenkins](#jenkins)
 - [Loggly](#loggly)
 - [Logz.io](#logzio)
+- [ManageEngine](#manageengine)
 - [Microsoft](#microsoft)
    - [Teams](#teams)
    - [Azure](#azure)
@@ -224,6 +225,9 @@ Loggly is a SaaS solution for log data management. This one-way integration will
 [Logz.io](https://logz.io/) is a cloud based implementation of the ELK stack. Using a Logz.io trial instance, this integration demonstrates the ease of passing log alerts into xMatters.
 * [One-way integration with Logz.io](https://github.com/xmatters/xm-labs-logz.io-elk)
 
+## ManageEngine
+This integration for the ManageEngine platform from Zoho brings the power of xMatters to IT Ops and Serice Desk. 
+* [One-way integration with ManageEngine](https://github.com/xmatters/xm-labs-manageengine)
 
 ## Microsoft
 ### Teams
