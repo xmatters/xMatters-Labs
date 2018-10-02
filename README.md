@@ -110,6 +110,7 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [Initiate by phone](#initiate-by-phone)
   - [Post Event Report](#post-event-report)
   - [Shift Gaps](#shift-gaps)
+  - [xM SOAP](#xm-soap)
 - [Zabbix](#zabbix)
 
 
@@ -349,6 +350,9 @@ Levraging the tools of Twilio, this integration kicks off an event initiated by 
 Check out this sweet shift gaps notification tool from Paul Dansey. It will find any gaps in the shifts in the groups specified and send a notification with the details. 
 * [Shift gap tool](https://github.com/xmatters/xM-Labs-Shift_Gaps)
 
+### xM SOAP
+Previous iterations of some integrations used an older SOAP payload. This is a useful comm plan for demonstrating how to work with SOAP in the integration builder.
+* [xM SOAP](https://github.com/xmatters/xm-labs-xMSOAP-Integration)
 
 ## Zabbix
 Zabbix is an open-source network monitoring solution. This integration extends the alerting capabilities to use xMatters, and sends response comments back to Zabbix.
