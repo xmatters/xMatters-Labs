@@ -106,6 +106,7 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [Terraform](#terraform)
 - [xMatters](#xmatters)
   - [Dummy Event Generator](#dummy-event-generator)
+  - [Email Parser](#email-parser)
   - [IA-Heartbeat](#ia-heartbeat)
   - [Initiate by phone](#initiate-by-phone)
   - [Post Event Report](#post-event-report)
@@ -334,6 +335,10 @@ Google Cloud's monitoring, logging and alerting platform gets the xMatters treat
 ## xMatters
 ### Dummy Event Generator
 * [Script to generate some dummy event data](https://github.com/xMTinkerer/xm-labs-dummy-event-generator)
+
+### Email Parser
+Email integrations sometimes are the only way to get data out of one application and into xMatters, this integration shows how you can easily parse inbound emails to properly pass properties.
+* [Email Parser Helper](https://github.com/xmatters/xm-labs-email-parser)
 
 ### IA Heartbeat
 This slick integration helps to alert when the Integration Agent misses a heartbeat, indicating it lost connection to xMatters. 
