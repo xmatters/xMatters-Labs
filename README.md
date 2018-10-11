@@ -336,7 +336,7 @@ Google Cloud's monitoring, logging and alerting platform gets the xMatters treat
 ## xMatters
 ### Clone Event
 Sometimes you just need an easy way to create an event that looks mostly like another one. This is the utility for you.
-*[Clone Event](https://github.com/xmatters/xm-labs-event-clone)
+* [Clone Event](https://github.com/xmatters/xm-labs-event-clone)
 
 ### Dummy Event Generator
 * [Script to generate some dummy event data](https://github.com/xMTinkerer/xm-labs-dummy-event-generator)
