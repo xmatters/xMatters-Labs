@@ -105,6 +105,7 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [Stackdriver](#stackdriver)
 - [Terraform](#terraform)
 - [xMatters](#xmatters)
+  - [Clone Event](#clone-event)
   - [Dummy Event Generator](#dummy-event-generator)
   - [Email Parser](#email-parser)
   - [IA-Heartbeat](#ia-heartbeat)
@@ -333,6 +334,10 @@ Google Cloud's monitoring, logging and alerting platform gets the xMatters treat
 * [Terraform one way integration](https://github.com/xmatters/xM-Labs-Terraform)
 
 ## xMatters
+### Clone Event
+Sometimes you just need an easy way to create an event that looks mostly like another one. This is the utility for you.
+*[Clone Event](https://github.com/xmatters/xm-labs-event-clone)
+
 ### Dummy Event Generator
 * [Script to generate some dummy event data](https://github.com/xMTinkerer/xm-labs-dummy-event-generator)
 
