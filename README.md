@@ -145,8 +145,8 @@ xM Labs closed loop integration for Control-M 9. For an engineering approved int
 * [Closed loop with Control-M 9](https://github.com/xmatters/xm-labs-control-m-9)
 
 ### Remedy 9 - On Premise
-Labs integration to Remedy 9 On Premise. This is the Remedy 8 integration available [here](https://support.xmatters.com/hc/en-us/articles/204282225), but for Remedy 9. Our engineering team has not officially validated this integration for Remedy 9, but this has been used several times in the field for Remedy 9. 
-* [Closed loop Remedy 9 - On Premise integration with data sync](https://github.com/xmatters/xm-labs-bmc-remedy-9)
+Labs integration to Remedy 9 On Premise. This is the Remedy 8 integration available [here](https://support.xmatters.com/hc/en-us/articles/204282225), but for Remedy 9. Our engineering team has not officially validated this integration for Remedy 9, but this has been used several times in the field for Remedy 9. This integration has been updated to use the REST API.
+* [Closed loop Remedy 9 - On Premise integration with data sync](https://github.com/xmatters/xm-labs-remedy-9-rest-on-prem)
 
 ### Remedy 8 - On Premise - Work Log
 This is a work log integration to tell xMatters to write to a Remedy Incident work log from any other integration via the integration agent.  
