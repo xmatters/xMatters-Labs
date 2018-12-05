@@ -86,13 +86,14 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [Prometheus](#prometheus)
 - [SalesForce](#salesforce)
 - [ServiceNow](#servicenow)
-  - [Inform with xMatters](#inform-with-xmatters)
   - [CI Support Groups on Engage form](#ci-support-groups-on-engage-form)
   - [Engage: Problem Management](#engage-problem-management)
   - [Engage: Post to Chat](#engage-post-to-chat)
   - [Event log](#event-log)
   - [Integration Hub](#integration-hub)
+  - [Inform with xMatters](#inform-with-xmatters)
   - [Major Incident Module](#major-incident-module)
+  - [Service Portal Widget](#service-portal-widget)
 - [SignalFx](#signalfx)
 - [Site24x7](#site24x7)
 - [Slack](#slack)
@@ -295,6 +296,10 @@ The Integration Hub from ServiceNow allows for easy drag and drop integrations a
 ### Major Incident Module
 The Major Incident Module in ServiceNow adds specific functionality around Major Incidents. This integration adds the power of xMatters.
 * [Major Incident](https://github.com/xmatters/xm-labs-ServiceNow-Major-Incident-Enhancement)
+
+### Service Portal Widget
+The Service Portal in ServiceNow is a framework for building rich self service pages. This is a widget to quickly see the on-call schedule in one (or more) of these pages.  
+* [Service Portal Widget](https://github.com/xmatters/xm-labs-servicenow-xm-widget)
 
 ## SignalFx
 Get alerts from all layers of the microservices of your application with the xMatters integration to SignalFx
