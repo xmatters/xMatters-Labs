@@ -106,12 +106,14 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [Stackdriver](#stackdriver)
 - [Terraform](#terraform)
 - [xMatters](#xmatters)
+  - [Capture Instance](#capture-instance)
   - [Clone Event](#clone-event)
   - [Dummy Event Generator](#dummy-event-generator)
   - [Email Parser](#email-parser)
   - [IA-Heartbeat](#ia-heartbeat)
   - [Initiate by phone](#initiate-by-phone)
   - [Post Event Report](#post-event-report)
+  - [Restore Instance](#restore-instance)
   - [Shift Gaps](#shift-gaps)
   - [xM SOAP](#xm-soap)
 - [Zabbix](#zabbix)
@@ -339,6 +341,10 @@ Google Cloud's monitoring, logging and alerting platform gets the xMatters treat
 * [Terraform one way integration](https://github.com/xmatters/xM-Labs-Terraform)
 
 ## xMatters
+### Capture Instance
+Capture all your user and group data for easy restore into another xMatters instance. See the [Restore Instance](#restore-instance) also. 
+* [Capture Instance](https://github.com/xmatters/xm-labs-capture-instance-data)
+
 ### Clone Event
 Sometimes you just need an easy way to create an event that looks mostly like another one. This is the utility for you.
 * [Clone Event](https://github.com/xmatters/xm-labs-event-clone)
@@ -360,6 +366,12 @@ Levraging the tools of Twilio, this integration kicks off an event initiated by 
 
 ### Post Event Report
 * [Generate a post event report from xMatters](https://github.com/xmatters/xm-labs-post-event-report)
+
+
+### Restore Instance
+Restore all your user and group data from a capture from an xMatters instance. See the [Capture Instance](#capture-instance) also. 
+* [Restore Instance](https://github.com/xmatters/xm-labs-restore-instance-data)
+
 
 ### Shift Gaps
 Check out this sweet shift gaps notification tool from Paul Dansey. It will find any gaps in the shifts in the groups specified and send a notification with the details. 
