@@ -61,6 +61,8 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [Chef Automate - Compliance](#chef-automate---compliance)
   - [Chef Automate - Generic Webhook](#chef-automate---generic-webhook)
 - [Cherwell](#cherwell)
+- [Cisco](#cisco)
+  - [Prime](#prime)
 - [Dynatrace](#dynatrace)
   - [Dynatrace](#dynatrace)
   - [Application Monitoring](#appmon)
@@ -184,6 +186,12 @@ This specific integration provides details on integrating with Chef Automate Gen
 ## Cherwell
 This integration improves on the out of box, cloud to cloud Cherwell integration. 
 * [Closed loop Cherwell integration](https://github.com/xmatters/xm-labs-Cherwell-On-Premise-xMatters)
+
+
+## Cisco
+### Prime
+This integration polls Prime for new Alarms and will generate events in xMatters for each one. 
+* [Cisco Prime closed loop integration](https://github.com/xmatters/xm-labs-cisco-prime)
 
 ## Dynatrace
 ### Dynatrace
