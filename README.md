@@ -109,6 +109,7 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [Terraform](#terraform)
 - [xMatters](#xmatters)
   - [Capture Instance](#capture-instance)
+  - [Copy Group](#copy-group)
   - [Clone Event](#clone-event)
   - [Dummy Event Generator](#dummy-event-generator)
   - [Email Parser](#email-parser)
@@ -352,6 +353,10 @@ Google Cloud's monitoring, logging and alerting platform gets the xMatters treat
 ### Capture Instance
 Capture all your user and group data for easy restore into another xMatters instance. See the [Restore Instance](#restore-instance) also. 
 * [Capture Instance](https://github.com/xmatters/xm-labs-capture-instance-data)
+
+### Copy Group
+A message panel to copy a group. 
+* [Copy Group Panel](https://github.com/xmatters/xm-labs-copy-groups)
 
 ### Clone Event
 Sometimes you just need an easy way to create an event that looks mostly like another one. This is the utility for you.
