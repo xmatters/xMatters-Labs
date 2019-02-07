@@ -103,6 +103,7 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [Librato](#librato)
   - [Papertrail](#papertrail)
   - [ThousandEyes](#thousandeyes)
+- [Spinnaker](#spinnaker) 
 - [Splunk](#splunk)
   - [Custom Messages](#custom-messages)
 - [Stackdriver](#stackdriver)
@@ -336,6 +337,10 @@ Papertrail is a cloud-hosted log management for faster troubleshooting of infras
 ### ThousandEyes
 ThousandEyes sees all and can send alerts based on a large variety of network related criteria. 
 * [Alerts from ThousandEyes](https://github.com/xmatters/xm-labs-thousandeyes)
+
+## Spinnaker
+This integration with Spinnaker brings the xMatters notification and response engine into the Manual Judgement phase. 
+* [Manual Judgements in Spinnaker with xMatters](https://github.com/xmatters/xm-labs-spinnaker)
 
 ## Splunk
 ### Custom Messages
