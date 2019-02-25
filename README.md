@@ -60,7 +60,6 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [Chef Server](#chef-server)
   - [Chef Automate - Compliance](#chef-automate---compliance)
   - [Chef Automate - Generic Webhook](#chef-automate---generic-webhook)
-- [Cherwell](#cherwell)
 - [Cisco](#cisco)
   - [Prime](#prime)
 - [Dynatrace](#dynatrace)
@@ -183,11 +182,6 @@ This specific integration provides details on integrating with Chef Automate Com
 ### Chef Automate - Generic Webhook
 This specific integration provides details on integrating with Chef Automate Generic Webhook. 
 * [Chef Automate - Generic Webhook](https://github.com/xmatters/Chef-Automate-Generic-Webhook)
-
-## Cherwell
-This integration improves on the out of box, cloud to cloud Cherwell integration. 
-* [Closed loop Cherwell integration](https://github.com/xmatters/xm-labs-Cherwell-On-Premise-xMatters)
-
 
 ## Cisco
 ### Prime
