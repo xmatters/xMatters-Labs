@@ -68,7 +68,6 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [Application Monitoring](#appmon)
 - [EasyVista](#easyvista)
 - [Grafana](#grafana)
-- [HipChat](#hipchat)
 - [HP](#hp)
   - [NNMi](#nnmi)
   - [OMi](#omi)
@@ -211,10 +210,6 @@ Closed loop integration to EasyVista Incidents
 ## Grafana
 Get xMatters notifications for all metrics in Grafana. 
 * [Grafana closed loop integration](https://github.com/xmatters/xm-labs-grafana)
-
-## HipChat
-A simple shared library for interacting with HipChat
-* [HipChat Shared Library](https://github.com/xmatters/xm-labs-hipchat)
 
 ## HP
 ### NNMi
