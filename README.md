@@ -76,7 +76,6 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [Logz.io](#logzio)
 - [ManageEngine](#manageengine)
 - [Microsoft](#microsoft)
-   - [Teams](#teams)
    - [Azure](#azure)
 - [Nagios Core](#nagios-core)
 - [Nagios XI](#nagios-xi)
@@ -235,9 +234,6 @@ This integration for the ManageEngine platform from Zoho brings the power of xMa
 * [One-way integration with ManageEngine](https://github.com/xmatters/xm-labs-manageengine)
 
 ## Microsoft
-### Teams
-Teams from Microsoft is the latest ChatOps tool for online collaboration. This is a bot to facilitate communication with Teams and xMatters.
-   - [MS Teams Bot](https://github.com/xmatters/xm-labs-ms-teams)
 
 ### Azure
 Azure is the cloud services offering from Microsoft. Give DevOps teams the power to drive process with this xMatters integration
