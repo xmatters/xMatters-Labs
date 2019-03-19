@@ -53,6 +53,7 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [Remedy 9 - On Premise](#remedy-9---on-premise)
   - [Remedy 8 - On Premise - Work Log](#remedy-8---on-premise---work-log)
   - [Remedy - On Demand](#remedy---on-demand)
+  - [Truesight](#truesight)
 - [CA](#CA)
   - [Agile Central](#agile-central)
   - [Unified Infrastructure Manager](#unified-infrastructure-manager)
@@ -160,6 +161,10 @@ This is a work log integration to tell xMatters to write to a Remedy Incident wo
 ### Remedy - On Demand
 Remedy On Demand is the cloud based solution for the Remedy ITSM platform. This itegration features notifications as well as response options that take action in Remedy. 
 * [Closed loop integration to Remedy On Demand](https://github.com/xmatters/xm-labs-remedyondemand)
+
+### Truesight
+This integration is for BMC's Truesight, formerly known as BPPM, and extends Truesight with the power and flexibility of the xMatters notification and collaboration platform.
+* [Truesight integration](https://github.com/xmatters/xm-labs-bmc-bppm-truesight)
 
 ## CA
 ### Agile Central
