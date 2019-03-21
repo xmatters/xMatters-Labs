@@ -114,6 +114,7 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [Email Parser](#email-parser)
   - [IA-Heartbeat](#ia-heartbeat)
   - [Initiate by phone](#initiate-by-phone)
+  - [JWT](#jwt)
   - [Post Event Report](#post-event-report)
   - [Restore Instance](#restore-instance)
   - [Shift Gaps](#shift-gaps)
@@ -372,6 +373,10 @@ This slick integration helps to alert when the Integration Agent misses a heartb
 ### Initiate by phone
 Levraging the tools of Twilio, this integration kicks off an event initiated by calling into a phone number.
 * [Initiate by phone](https://github.com/xmatters/xm-labs-xMatters-By-Phone)
+
+### JWT
+JSON Web Tokens are an emerging standard for authenticating with APIs in cloud based systems. This library helps generate them in the integration builder. 
+* [JWT in IB](https://github.com/xmatters/xm-labs-jwt)
 
 ### Post Event Report
 * [Generate a post event report from xMatters](https://github.com/xmatters/xm-labs-post-event-report)
