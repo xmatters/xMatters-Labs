@@ -93,6 +93,7 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [Event log](#event-log)
   - [Integration Hub](#integration-hub)
   - [Inform with xMatters](#inform-with-xmatters)
+  - [Linc](#linc)
   - [Major Incident Module](#major-incident-module)
   - [Service Portal Widget](#service-portal-widget)
 - [SignalFx](#signalfx)
@@ -301,6 +302,10 @@ This integration adds the event status, response and delivery information to a t
 ### Integration Hub
 The Integration Hub from ServiceNow allows for easy drag and drop integrations across any table to any product. This integration gives an example for Incident that can be modified for any other table. 
 * [ServiceNow Integration Hub](https://github.com/xmatters/xm-labs-integrationhub)
+
+### Linc
+The Lean Integration Nerve Center (Linc) is an alternative integration to xMatters from ServiceNow and can support any table in ServiceNow rather than just incidents. 
+* [Linc Integration](https://github.com/xmatters/xm-labs-snow_linc)
 
 ### Major Incident Module
 The Major Incident Module in ServiceNow adds specific functionality around Major Incidents. This integration adds the power of xMatters.
