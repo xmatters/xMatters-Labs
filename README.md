@@ -121,6 +121,7 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [Post Event Report](#post-event-report)
   - [Restore Instance](#restore-instance)
   - [Shift Gaps](#shift-gaps)
+  - [Translator](#translator)
   - [xAgent Dockerfile](#xagent-dockerfile)
   - [xM SOAP](#xm-soap)
 - [Zabbix](#zabbix)
@@ -405,6 +406,10 @@ Restore all your user and group data from a capture from an xMatters instance. S
 ### Shift Gaps
 Check out this sweet shift gaps notification tool from Paul Dansey. It will find any gaps in the shifts in the groups specified and send a notification with the details. 
 * [Shift gap tool](https://github.com/xmatters/xM-Labs-Shift_Gaps)
+
+## Translator
+Run time translation for messages!? This integration uses the Google Translation service to translate the individual properties of an event and inserts them into the outgoing notifications. 
+* [Event Translator](https://github.com/xmatters/xm-labs-event-translator)
 
 ### xAgent Dockerfile
 Docker is a great way to build secure, resiliant infrastructure. This repo details how to run the xAgent in a container environment.
