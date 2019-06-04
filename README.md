@@ -74,6 +74,7 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [OMi](#omi)
   - [SiteScope](#sitescope)
 - [Jenkins](#jenkins)
+- [Kiali](#kiali)
 - [Loggly](#loggly)
 - [Logz.io](#logzio)
 - [ManageEngine](#manageengine)
@@ -235,6 +236,10 @@ One way integration to SiteScope
 ## Jenkins
 Jenkins is the leading automation server. This integration allows recipients to respond to notifications from xMatters and update their builds in Jenkins.
 * [Closed-loop integration with Jenkins](https://github.com/xmatters/xm-labs-jenkins)
+
+## Kiali
+Kiali is a service mesh visualization tool for use with Istio. This shared library exposes several API calls from Kiali to enrich the xMatters notifications to include the service relationship information
+* [Kiali Visualization](https://github.com/xmatters/xm-labs-kiali)
 
 ## Loggly
 Loggly is a SaaS solution for log data management. This one-way integration will notify recipients about trends that Loggly notices in log files.
