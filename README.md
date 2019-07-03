@@ -76,6 +76,7 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [Jenkins](#jenkins)
 - [Kiali](#kiali)
 - [Loggly](#loggly)
+- [LogicMonitor](#logicmonitor)
 - [Logz.io](#logzio)
 - [ManageEngine](#manageengine)
 - [Microsoft](#microsoft)
@@ -104,12 +105,12 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [SolarWinds](#solarwinds)
   - [Librato](#librato)
   - [Papertrail](#papertrail)
-  - [ThousandEyes](#thousandeyes)
 - [Spinnaker](#spinnaker) 
 - [Splunk](#splunk)
   - [Custom Messages](#custom-messages)
 - [Stackdriver](#stackdriver)
 - [Terraform](#terraform)
+- [ThousandEyes](#thousandeyes)
 - [xMatters](#xmatters)
   - [Capture Instance](#capture-instance)
   - [Copy Group](#copy-group)
@@ -244,6 +245,10 @@ Kiali is a service mesh visualization tool for use with Istio. This shared libra
 ## Loggly
 Loggly is a SaaS solution for log data management. This one-way integration will notify recipients about trends that Loggly notices in log files.
 * [One-way integration with Loggly](https://github.com/xmatters/xm-labs-loggly)
+
+## LogicMonitor
+LogicMonitor is a Saas based performance monitoring tool. This integration will trigger notifications based on an alert rule. 
+* [LogicMonitor integration](https://github.com/xmatters/xm-labs-LogicMonitor-Integration)
 
 ## Logz.io
 [Logz.io](https://logz.io/) is a cloud based implementation of the ELK stack. Using a Logz.io trial instance, this integration demonstrates the ease of passing log alerts into xMatters.
