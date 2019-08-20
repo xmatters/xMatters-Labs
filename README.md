@@ -75,6 +75,7 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [SiteScope](#sitescope)
 - [Jenkins](#jenkins)
 - [Kiali](#kiali)
+- [Lightstep](#lightstep)
 - [Loggly](#loggly)
 - [LogicMonitor](#logicmonitor)
 - [Logz.io](#logzio)
@@ -89,6 +90,7 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [Postman](#postman)
 - [Prometheus](#prometheus)
 - [SalesForce](#salesforce)
+- [Sematext](#sematext)
 - [ServiceNow](#servicenow)
   - [CI Support Groups on Engage form](#ci-support-groups-on-engage-form)
   - [Engage: Problem Management](#engage-problem-management)
@@ -242,6 +244,10 @@ Jenkins is the leading automation server. This integration allows recipients to 
 Kiali is a service mesh visualization tool for use with Istio. This shared library exposes several API calls from Kiali to enrich the xMatters notifications to include the service relationship information
 * [Kiali Visualization](https://github.com/xmatters/xm-labs-kiali)
 
+## Lightstep
+Lightstep is a leading observability and APM tool for keeping production systems running. The xMatters integration helps minimize the blast radius.
+* [Lightstep integration](https://github.com/xmatters/xm-labs-Lightstep-integration)
+
 ## Loggly
 Loggly is a SaaS solution for log data management. This one-way integration will notify recipients about trends that Loggly notices in log files.
 * [One-way integration with Loggly](https://github.com/xmatters/xm-labs-loggly)
@@ -295,6 +301,10 @@ Prometheus is a leading open source time series database for getting application
 ## SalesForce
 SalesForce is ... well, it's SalesForce. With this integration, you can find out who is on call in xMatters to handle a new case whenever one is created.
 * [Who's On Call for SalesForce Case Management](https://github.com/xmatters/xm-labs-salesforce)
+
+## Sematext
+Sematext is an IT System Monitoring & Management Tools for smart devops teams that want to move faster.
+* [Sematext integration](https://github.com/xmatters/xm-labs-sematext-integration)
 
 ## ServiceNow
 Our integration with ServiceNow is available via the ServiceNow store (see our [Support site](https://support.xmatters.com/hc/en-us/articles/213078983) for full details), but we're still working on making it better, and we have a couple of cool enhancements already. 
