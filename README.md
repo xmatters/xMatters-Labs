@@ -123,6 +123,7 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [Initiate by phone](#initiate-by-phone)
   - [JWT](#jwt)
   - [Post Event Report](#post-event-report)
+  - [Post Daily On-call to ChatOps](#post-daily-on-call)
   - [Restore Instance](#restore-instance)
   - [Shift Gaps](#shift-gaps)
   - [Translator](#translator)
@@ -417,6 +418,9 @@ JSON Web Tokens are an emerging standard for authenticating with APIs in cloud b
 ### Post Event Report
 * [Generate a post event report from xMatters](https://github.com/xmatters/xm-labs-post-event-report)
 
+### Post Daily On-call
+Ever wanted a daily post the on-call schedule for some groups into your favorite Slack or MS Teams channel? This integration is for you!
+* [Post Daily On-call to ChatOps](https://github.com/xmatters/xm-labs-xMatters-Post-Daily-On-Call-to-Chat-Ops)
 
 ### Restore Instance
 Restore all your user and group data from a capture from an xMatters instance. See the [Capture Instance](#capture-instance) also. 
