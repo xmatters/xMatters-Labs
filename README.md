@@ -65,7 +65,6 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [Cisco](#cisco)
   - [Prime](#prime)
 - [Dynatrace](#dynatrace)
-  - [Dynatrace](#dynatrace)
   - [Application Monitoring](#appmon)
 - [EasyVista](#easyvista)
 - [Grafana](#grafana)
@@ -206,11 +205,6 @@ CircleCi is a CI/CD platform for building anything. This integration adds xMatte
 ### Prime
 This integration polls Prime for new Alarms and will generate events in xMatters for each one. 
 * [Cisco Prime closed loop integration](https://github.com/xmatters/xm-labs-cisco-prime)
-
-## Dynatrace
-### Dynatrace
-Dynatrace is a leading performance and application monitoring application. This integration extends the alerting capabilities to use xMatters.
-* [Closed loop integration with Dynatrace](https://github.com/xmatters/xm-labs-dynatrace)
 
 ### AppMon
 Dynatrace Application Monitoring provides all performance metrics in real time and detects and diagnoses problems automatically.
