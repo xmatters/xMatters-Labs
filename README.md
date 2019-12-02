@@ -50,6 +50,7 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [StatusPage](#statuspage)
 - [BMC](#bmc)
   - [Control - M v9](#control---m-v9)
+  - [Remedy Helix](#remedy-helix)
   - [Remedy 9 - On Premise](#remedy-9---on-premise)
   - [Remedy 8 - On Premise - Work Log](#remedy-8---on-premise---work-log)
   - [Remedy - On Demand](#remedy---on-demand)
@@ -158,6 +159,10 @@ Integration for posting to StatusPage.io. This integration allows recipients to 
 ### Control - M v9
 xM Labs closed loop integration for Control-M 9. For an engineering approved integration to Control-M v8, see [here](https://support.xmatters.com/hc/en-us/articles/202025245). 
 * [Closed loop with Control-M 9](https://github.com/xmatters/xm-labs-control-m-9)
+
+### Remedy Helix
+Helix is the new framework for working with the BMC tools such as Remedy. This is a new closed loop integration for sending targeted notifications and sending responses. 
+* [Closed loop with Remedy Helix](https://github.com/xmatters/xm-labs-remedy-helix-onprem-ondemand)
 
 ### Remedy 9 - On Premise
 Labs integration to Remedy 9 On Premise. This is the Remedy 8 integration available [here](https://support.xmatters.com/hc/en-us/articles/204282225), but for Remedy 9. Our engineering team has not officially validated this integration for Remedy 9, but this has been used several times in the field for Remedy 9. This integration has been updated to use the REST API.
