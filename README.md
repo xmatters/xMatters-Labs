@@ -110,7 +110,6 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [Spinnaker](#spinnaker) 
 - [Splunk](#splunk)
   - [Custom Messages](#custom-messages)
-- [Stackdriver](#stackdriver)
 - [Terraform](#terraform)
 - [ThousandEyes](#thousandeyes)
 - [xMatters](#xmatters)
@@ -374,10 +373,6 @@ This integration with Spinnaker brings the xMatters notification and response en
 ### Custom Messages
 With this revamped Splunk integration, you can add custom meta information to the Splunk alert. 
 * [Custom Messages](https://github.com/xmatters/xm-labs-splunk-custom-messages)
-
-## Stackdriver
-Google Cloud's monitoring, logging and alerting platform gets the xMatters treatment. Use this one-way integration to send Stackdriver alerts to recipients via xMatters.
-* [One-way integration to Stackdriver](https://github.com/xmatters/xm-labs-stackdriver)
 
 ## Terraform
 * [Terraform one way integration](https://github.com/xmatters/xM-Labs-Terraform)
