@@ -267,7 +267,7 @@ This integration for the ManageEngine platform from Zoho brings the power of xMa
 
 ### Azure
 Azure is the cloud services offering from Microsoft. Give DevOps teams the power to drive process with this xMatters integration
-   - [MS Azure](https://github.com/xmatters/azure-monitor-integration)
+   - [MS Azure](https://github.com/xmatters/xm-labs-azure-monitor)
 
 ## Nagios Core
 Nagios Core is the tried and true monitoring application in use far and wide. This integration expands the notifications to leverage xMatters. If you are looking for Nagios XI, see [here](https://www.xmatters.com/integration/nagios-xi/)
