@@ -130,6 +130,7 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [xM SOAP](#xm-soap)
 - [Zabbix](#zabbix)
 
+- [python SDK](#python-sdk)
 
 
 # Integrations
@@ -440,3 +441,8 @@ Previous iterations of some integrations used an older SOAP payload. This is a u
 ## Zabbix
 Zabbix is an open-source network monitoring solution. This integration extends the alerting capabilities to use xMatters, and sends response comments back to Zabbix.
 * [Complete integration with Zabbix](https://github.com/xmatters/xm-labs-zabbix)
+
+# Libraries
+## Python SDK
+The python SDK exposes most of the xMatters REST API as a python3 library installable with pip. 
+* [python 3 SDK](https://github.com/xmatters/pyxmatters)
