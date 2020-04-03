@@ -446,3 +446,7 @@ Zabbix is an open-source network monitoring solution. This integration extends t
 ## Python SDK
 The python SDK exposes most of the xMatters REST API as a python3 library installable with pip. 
 * [python 3 SDK](https://github.com/xmatters/pyxmatters)
+
+### Example Usage of Python SDK
+This repo is an example of how to use the python 3 SDK. 
+* [Example usage](https://github.com/xmatters/integrator_py)
