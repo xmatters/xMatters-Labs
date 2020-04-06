@@ -119,6 +119,7 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [Dummy Event Generator](#dummy-event-generator)
   - [Email Parser](#email-parser)
   - [IA-Heartbeat](#ia-heartbeat)
+  - [Incomplete Groups](#incomplete-groups)
   - [Initiate by phone](#initiate-by-phone)
   - [JWT](#jwt)
   - [Post Event Report](#post-event-report)
@@ -401,6 +402,10 @@ Email integrations sometimes are the only way to get data out of one application
 ### IA Heartbeat
 This slick integration helps to alert when the Integration Agent misses a heartbeat, indicating it lost connection to xMatters. 
 * [IA Heartbeat alerting](https://github.com/xmatters/IA-Heartbeat)
+
+### Incomplete Groups
+Harass group supervisors to make sure they have users in their groups
+* [Incomplete Groups](https://github.com/xMTinkerer/xm-labs-incomplete-groups)
 
 ### Initiate by phone
 Levraging the tools of Twilio, this integration kicks off an event initiated by calling into a phone number.
