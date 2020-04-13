@@ -343,7 +343,7 @@ The Service Portal in ServiceNow is a framework for building rich self service p
 * [Service Portal Widget](https://github.com/xmatters/xm-labs-servicenow-xm-widget)
 
 ## SignalFx
-Get alerts from all layers of the microservices of your application with the xMatters integration to SignalFx
+Get alerts from all layers of the microservices of your application with the xMatters integration to SignalFx 
 * [Two-way SignalFx integration](https://github.com/xmatters/xm-labs-signalfx)
 
 ## Site24x7
