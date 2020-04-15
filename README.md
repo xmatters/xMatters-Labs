@@ -73,6 +73,7 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [NNMi](#nnmi)
   - [OMi](#omi)
   - [SiteScope](#sitescope)
+- [Ivanti](#ivanti)
 - [Jenkins](#jenkins)
 - [Kiali](#kiali)
 - [Lightstep](#lightstep)
@@ -236,6 +237,10 @@ The HP OMi closed loop integration provides real-time notifications to quickly r
 ### SiteScope
 One way integration to SiteScope
 * [HP SiteScope](https://github.com/xmatters/xm-labs-sitescope)
+
+## Ivanti
+Closed loop integration to Ivanti Service Manager Cloud
+* [Closed-loop integration with Ivanti](https://github.com/xmatters/xm-labs-ivanti-service-manager-cloud)
 
 ## Jenkins
 Jenkins is the leading automation server. This integration allows recipients to respond to notifications from xMatters and update their builds in Jenkins.
