@@ -305,8 +305,8 @@ Prometheus is a leading open source time series database for getting application
 * [Prometheus integration](https://github.com/xmatters/xm-labs-prometheus)
 
 ## SalesForce
-SalesForce is ... well, it's SalesForce. With this integration, you can find out who is on call in xMatters to handle a new case whenever one is created.
-* [Who's On Call for SalesForce Case Management](https://github.com/xmatters/xm-labs-salesforce)
+This integration provides some easy to use APEX code and the HTTP Trigger needed to parse the payload from SalesForce. A little work with this one will have you notifying on-call groups in no time. 
+* [APEX Trigger and HTTP Trigger for Cases](https://github.com/xmatters/xm-labs-salesforce-casealert)
 
 ## Sematext
 Sematext is an IT System Monitoring & Management Tools for smart devops teams that want to move faster.
