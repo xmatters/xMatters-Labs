@@ -83,7 +83,7 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [ManageEngine](#manageengine)
 - [Microsoft](#microsoft)
    - [Azure](#azure)
-   - [DevOps Boards}(#devops-boards)
+   - [DevOps Boards](#devops-boards)
 - [Nagios Core](#nagios-core)
 - [Nagios XI](#nagios-xi)
 - [Oracle Cloud Control](#oracle-cloud-control)
