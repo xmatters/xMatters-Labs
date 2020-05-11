@@ -83,6 +83,7 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [ManageEngine](#manageengine)
 - [Microsoft](#microsoft)
    - [Azure](#azure)
+   - [DevOps Boards}(#devops-boards)
 - [Nagios Core](#nagios-core)
 - [Nagios XI](#nagios-xi)
 - [Oracle Cloud Control](#oracle-cloud-control)
@@ -273,8 +274,12 @@ This integration for the ManageEngine platform from Zoho brings the power of xMa
 ## Microsoft
 
 ### Azure
-Azure is the cloud services offering from Microsoft. Give DevOps teams the power to drive process with this xMatters integration
+Azure is the cloud services offering from Microsoft. This integration is to the monitoring arm of Azure. 
    - [MS Azure](https://github.com/xmatters/xm-labs-azure-monitor)
+
+### DevOps Boards
+DevOps boards help keep your team engaged and aware of current priorities. This integration triggers an xMatters workflow when actions are performed on the board. 
+   - [DevOps Boards](https://github.com/xmatters/xm-labs-azuredevops-boards)
 
 ## Nagios Core
 Nagios Core is the tried and true monitoring application in use far and wide. This integration expands the notifications to leverage xMatters. If you are looking for Nagios XI, see [here](https://www.xmatters.com/integration/nagios-xi/)
