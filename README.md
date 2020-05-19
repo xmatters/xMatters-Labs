@@ -131,11 +131,11 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [Translator](#translator)
   - [xAgent Dockerfile](#xagent-dockerfile)
   - [xM SOAP](#xm-soap)
-  - [xmtoolbox](#xmtoolbox)
+  - [xMtoolbox Quick Start](#xmtoolbox-quickstart)
 - [Zabbix](#zabbix)
 
 - [Libraries](#libraries)
-   - [xmtoolbox](#xmtoolbox-for-node-js)
+   - [xmtoolbox](#xmtoolbox-for-nodejs)
    - [python SDK](#python-sdk)
 
 
@@ -456,6 +456,9 @@ Docker is a great way to build secure, resiliant infrastructure. This repo detai
 Previous iterations of some integrations used an older SOAP payload. This is a useful comm plan for demonstrating how to work with SOAP in the integration builder.
 * [xM SOAP](https://github.com/xmatters/xm-labs-xMSOAP-Integration)
 
+### xmtoolbox-quick-start
+This template node project provides ready-to-use example node.js scripts using xmtoolbox to backup, restore, upload, synconiza data with xMatters and more.
+* [xmtoolbox-quick-start](https://github.com/xmatters/xmtoolbox-quick-start)
 
 ## Zabbix
 Zabbix is an open-source network monitoring solution. This integration extends the alerting capabilities to use xMatters, and sends response comments back to Zabbix.
