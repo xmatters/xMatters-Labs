@@ -134,7 +134,9 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [xmtoolbox](#xmtoolbox)
 - [Zabbix](#zabbix)
 
-- [python SDK](#python-sdk)
+- [Libraries](#libraries)
+   - [xmtoolbox](#xmtoolbox-for-node-js)
+   - [python SDK](#python-sdk)
 
 
 # Integrations
