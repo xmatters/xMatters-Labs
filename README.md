@@ -454,15 +454,16 @@ Docker is a great way to build secure, resiliant infrastructure. This repo detai
 Previous iterations of some integrations used an older SOAP payload. This is a useful comm plan for demonstrating how to work with SOAP in the integration builder.
 * [xM SOAP](https://github.com/xmatters/xm-labs-xMSOAP-Integration)
 
-### xMToolBox
-The xMatters toolbox provides an extensive SDK for performing data sync's from other systems. 
-* [xmToolBox](https://github.com/xmatters/xmtoolbox-quick-start)
 
 ## Zabbix
 Zabbix is an open-source network monitoring solution. This integration extends the alerting capabilities to use xMatters, and sends response comments back to Zabbix.
 * [Complete integration with Zabbix](https://github.com/xmatters/xm-labs-zabbix)
 
 # Libraries
+## xmtoolbox for node.js
+The xmtoolbox exposes all xMatters REST APIs and adds other supporting functions to help with syncronizations, uploads, backups, restorations, and utilitis for working with csv files.
+* [xmToolBox](https://www.npmjs.com/package/xmtoolbox)
+
 ## Python SDK
 The python SDK exposes most of the xMatters REST API as a python3 library installable with pip. 
 * [python 3 SDK](https://github.com/xmatters/pyxmatters)
