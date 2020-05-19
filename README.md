@@ -131,6 +131,7 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [Translator](#translator)
   - [xAgent Dockerfile](#xagent-dockerfile)
   - [xM SOAP](#xm-soap)
+  - [xmtoolbox](#xmtoolbox)
 - [Zabbix](#zabbix)
 
 - [python SDK](#python-sdk)
@@ -452,6 +453,10 @@ Docker is a great way to build secure, resiliant infrastructure. This repo detai
 ### xM SOAP
 Previous iterations of some integrations used an older SOAP payload. This is a useful comm plan for demonstrating how to work with SOAP in the integration builder.
 * [xM SOAP](https://github.com/xmatters/xm-labs-xMSOAP-Integration)
+
+### xMToolBox
+The xMatters toolbox provides an extensive SDK for performing data sync's from other systems. 
+* [xmToolBox](https://github.com/xmatters/xmtoolbox-quick-start)
 
 ## Zabbix
 Zabbix is an open-source network monitoring solution. This integration extends the alerting capabilities to use xMatters, and sends response comments back to Zabbix.
