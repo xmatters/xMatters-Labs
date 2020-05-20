@@ -85,6 +85,7 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [Microsoft](#microsoft)
    - [Azure](#azure)
    - [DevOps Boards](#devops-boards)
+   - [DevOps Pipelines](#devops-pipelines)
 - [Nagios Core](#nagios-core)
 - [Nagios XI](#nagios-xi)
 - [Oracle Cloud Control](#oracle-cloud-control)
@@ -289,6 +290,10 @@ Azure is the cloud services offering from Microsoft. This integration is to the 
 DevOps boards help keep your team engaged and aware of current priorities. This integration triggers an xMatters workflow when actions are performed on the board. 
    - [DevOps Boards](https://github.com/xmatters/xm-labs-azuredevops-boards)
 
+### DevOps Pipelines
+Build web, desktop and mobile applications and deploy to any cloud or on-premises with Azure Pipelines. This integration allows you to trigger a pipeline from xMatters, or have the pipeline trigger xMatters for a pipeline task or release gate. 
+   - [DevOps Pipelines](https://github.com/xmatters/xm-labs-azuredevops-pipelines)
+   
 ## Nagios Core
 Nagios Core is the tried and true monitoring application in use far and wide. This integration expands the notifications to leverage xMatters. If you are looking for Nagios XI, see [here](https://www.xmatters.com/integration/nagios-xi/)
 * [One-way integration with Nagios](https://github.com/xmatters/xm-labs-nagios)
