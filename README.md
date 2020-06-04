@@ -116,6 +116,7 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [Custom Messages](#custom-messages)
 - [Terraform](#terraform)
 - [ThousandEyes](#thousandeyes)
+- [TravisCI](#travisci)
 - [xMatters](#xmatters)
   - [Capture Instance](#capture-instance)
   - [Copy Group](#copy-group)
@@ -386,10 +387,6 @@ Librato provides real time monitoring dashboards to easily see and be alerted to
 Papertrail is a cloud-hosted log management for faster troubleshooting of infrastructure and application issues.
 * [Alerts from Papertrail](https://github.com/xmatters/xm-labs-Papertrail)
 
-### ThousandEyes
-ThousandEyes sees all and can send alerts based on a large variety of network related criteria. 
-* [Alerts from ThousandEyes](https://github.com/xmatters/xm-labs-thousandeyes)
-
 ## Spinnaker
 This integration with Spinnaker brings the xMatters notification and response engine into the Manual Judgement phase. 
 * [Manual Judgements in Spinnaker with xMatters](https://github.com/xmatters/xm-labs-spinnaker)
@@ -401,6 +398,13 @@ With this revamped Splunk integration, you can add custom meta information to th
 
 ## Terraform
 * [Terraform one way integration](https://github.com/xmatters/xM-Labs-Terraform)
+
+## ThousandEyes
+ThousandEyes sees all and can send alerts based on a large variety of network related criteria. 
+* [Alerts from ThousandEyes](https://github.com/xmatters/xm-labs-thousandeyes)
+
+## TravisCI
+* [Trigger build](https://github.com/xmatters/xm-labs-travis-ci)
 
 ## xMatters
 ### Capture Instance
