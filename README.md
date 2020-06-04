@@ -109,6 +109,7 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [Site24x7](#site24x7)
 - [Slack](#slack)
 - [SolarWinds](#solarwinds)
+  - [AppOptics](#appoptics)
   - [Librato](#librato)
   - [Papertrail](#papertrail)
 - [Spinnaker](#spinnaker) 
@@ -379,6 +380,10 @@ Slack is a fantastic chat application that's insanely - and deservedly - popular
 * [Shared library for Slack](https://github.com/xmatters/xm-labs-slack)
 
 ## SolarWinds
+### AppOptics
+AppOptics provides next generation insight into your applications. This integration adds xMatters as an alerting method.
+* [Closed Loop Integration](https://github.com/xmatters/xm-labs-appoptics)
+
 ### Librato
 Librato provides real time monitoring dashboards to easily see and be alerted to any anomalous behavior. 
 * [One-way integration to Librato](https://github.com/xmatters/xm-labs-librato)
