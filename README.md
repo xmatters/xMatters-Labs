@@ -119,7 +119,6 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [ThousandEyes](#thousandeyes)
 - [TravisCI](#travisci)
 - [xMatters](#xmatters)
-  - [Capture Instance](#capture-instance)
   - [Copy Group](#copy-group)
   - [Clone Event](#clone-event)
   - [Dummy Event Generator](#dummy-event-generator)
@@ -130,7 +129,6 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [JWT](#jwt)
   - [Post Event Report](#post-event-report)
   - [Post Daily On-call to ChatOps](#post-daily-on-call)
-  - [Restore Instance](#restore-instance)
   - [Shift Gaps](#shift-gaps)
   - [Translator](#translator)
   - [xAgent Dockerfile](#xagent-dockerfile)
@@ -412,9 +410,6 @@ ThousandEyes sees all and can send alerts based on a large variety of network re
 * [Trigger build](https://github.com/xmatters/xm-labs-travis-ci)
 
 ## xMatters
-### Capture Instance
-Capture all your user and group data for easy restore into another xMatters instance. See the [Restore Instance](#restore-instance) also. 
-* [Capture Instance](https://github.com/xmatters/xm-labs-capture-instance-data)
 
 ### Copy Group
 A message panel to copy a group. 
@@ -453,10 +448,6 @@ JSON Web Tokens are an emerging standard for authenticating with APIs in cloud b
 ### Post Daily On-call
 Ever wanted a daily post the on-call schedule for some groups into your favorite Slack or MS Teams channel? This integration is for you!
 * [Post Daily On-call to ChatOps](https://github.com/xmatters/xm-labs-xMatters-Post-Daily-On-Call-to-Chat-Ops)
-
-### Restore Instance
-Restore all your user and group data from a capture from an xMatters instance. See the [Capture Instance](#capture-instance) also. 
-* [Restore Instance](https://github.com/xmatters/xm-labs-restore-instance-data)
 
 
 ### Shift Gaps
