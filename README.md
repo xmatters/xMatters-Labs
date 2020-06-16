@@ -132,6 +132,7 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [Shift Gaps](#shift-gaps)
   - [Translator](#translator)
   - [xAgent Dockerfile](#xagent-dockerfile)
+  - [xAgent on Kubernetes](#xagent-on-kubernetes)
   - [xM SOAP](#xm-soap)
   - [xMtoolbox Quick Start](#xmtoolbox-quickstart)
 - [Zabbix](#zabbix)
@@ -461,6 +462,10 @@ Run time translation for messages!? This integration uses the Google Translation
 ### xAgent Dockerfile
 Docker is a great way to build secure, resiliant infrastructure. This repo details how to run the xAgent in a container environment.
 * [xAgent Dockerfile](https://github.com/xmatters/xm-labs-xAgent-Dockerfile)
+
+### xAgent on Kubernetes
+Add the xAgent to your kubernetes cluster for access to kubectl and knative APIs. 
+* [xAgent on Kubernetes](https://github.com/xmatters/xm-labs-xagent-on-kubernetes)
 
 ### xM SOAP
 Previous iterations of some integrations used an older SOAP payload. This is a useful comm plan for demonstrating how to work with SOAP in the integration builder.
