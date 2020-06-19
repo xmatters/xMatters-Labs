@@ -3,6 +3,8 @@
 # xMatters-Labs
 Welcome to xMatters Labs, the official/unofficial Research and Development wing of xMatters, inc., and home to the most cutting-edge integrations on offer.
 
+These are full integrations, for the xM Labs Steps repo, cruise over [here](https://github.com/xmatters/xMatters-Labs-Flow-Steps)
+
 ---------
 
 <kbd>
