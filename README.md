@@ -72,6 +72,7 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [Application Monitoring](#appmon)
 - [EasyVista](#easyvista)
 - [Grafana](#grafana)
+- [Graylog](#graylog)
 - [HP](#hp)
   - [NNMi](#nnmi)
   - [OMi](#omi)
@@ -237,6 +238,10 @@ Closed loop integration to EasyVista Incidents
 ## Grafana
 Get xMatters notifications for all metrics in Grafana. 
 * [Grafana closed loop integration](https://github.com/xmatters/xm-labs-grafana)
+
+## Graylog
+Aggregate logs and trigger alerts into xMatters.
+* [Trigger alerts](https://github.com/xmatters/xm-labs-graylog)
 
 ## HP
 ### NNMi
