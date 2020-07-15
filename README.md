@@ -70,6 +70,7 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [EasyVista](#easyvista)
 - [Grafana](#grafana)
 - [Graylog](#graylog)
+- [Honeycomb.io](#honeycomb-io)
 - [HP](#hp)
   - [NNMi](#nnmi)
   - [OMi](#omi)
@@ -227,6 +228,10 @@ Get xMatters notifications for all metrics in Grafana.
 ## Graylog
 Aggregate logs and trigger alerts into xMatters.
 * [Trigger alerts](https://github.com/xmatters/xm-labs-graylog)
+
+## Honeycomb.io
+The queen of observation platforms, Honeycomb gives you insight into all the dark corners of your application. This integration adds the on-call scheduling and workflow capabilities of xMatters. 
+* [Honecomb Alerts](https://github.com/xmatters/xm-labs-honeycomb)
 
 ## HP
 ### NNMi
