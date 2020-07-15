@@ -70,7 +70,7 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [EasyVista](#easyvista)
 - [Grafana](#grafana)
 - [Graylog](#graylog)
-- [Honeycomb.io](#honeycomb-io)
+- [Honeycomb.io](#honeycombio)
 - [HP](#hp)
   - [NNMi](#nnmi)
   - [OMi](#omi)
