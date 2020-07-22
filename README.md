@@ -116,6 +116,7 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [Spinnaker](#spinnaker) 
 - [Splunk](#splunk)
   - [Custom Messages](#custom-messages)
+- [Sysdig](#sysdig)  
 - [Terraform](#terraform)
 - [ThousandEyes](#thousandeyes)
 - [TravisCI](#travisci)
@@ -396,6 +397,10 @@ This integration with Spinnaker brings the xMatters notification and response en
 ### Custom Messages
 With this revamped Splunk integration, you can add custom meta information to the Splunk alert. 
 * [Custom Messages](https://github.com/xmatters/xm-labs-splunk-custom-messages)
+
+## Sysdig
+Extend the alerting and notification abilities of Sysdig with this integration. Also includes an Acknowledge response. 
+* [Sysdig Alerts](https://github.com/xmatters/xm-labs-sysdig)
 
 ## Terraform
 * [Terraform one way integration](https://github.com/xmatters/xM-Labs-Terraform)
