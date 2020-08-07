@@ -92,6 +92,7 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [Prometheus](#prometheus)
 - [SalesForce](#salesforce)
 - [Sematext](#sematext)
+- [Sentry.io)(#sentry-io)
 - [ServiceNow](#servicenow)
   - [CI Support Groups on Engage form](#ci-support-groups-on-engage-form)
   - [Engage: Problem Management](#engage-problem-management)
@@ -231,6 +232,9 @@ The HP OMi closed loop integration provides real-time notifications to quickly r
 One way integration to SiteScope
 * [HP SiteScope](https://github.com/xmatters/xm-labs-sitescope)
 
+## Instana
+* [One way integration to Instana Alerts](https://github.com/xmatters/xm-labs-instana)
+
 ## Ivanti
 Closed loop integration to Ivanti Service Manager Cloud
 * [Closed-loop integration with Ivanti](https://github.com/xmatters/xm-labs-ivanti-service-manager-cloud)
@@ -312,6 +316,9 @@ This integration provides some easy to use APEX code and the HTTP Trigger needed
 ## Sematext
 Sematext is an IT System Monitoring & Management Tools for smart devops teams that want to move faster.
 * [Sematext integration](https://github.com/xmatters/xm-labs-sematext-integration)
+
+## Sentry.io
+* [Closed loop integration for Sentry.io](https://github.com/xmatters/xm-labs-sentry)
 
 ## ServiceNow
 Our integration with ServiceNow is available via the ServiceNow store (see our [Support site](https://support.xmatters.com/hc/en-us/articles/213078983) for full details), but we're still working on making it better, and we have a couple of cool enhancements already. 
