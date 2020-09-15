@@ -92,7 +92,7 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [Prometheus](#prometheus)
 - [SalesForce](#salesforce)
 - [Sematext](#sematext)
-- [Sentry.io)(#sentry-io)
+- [Sentry.io](#sentry-io)
 - [ServiceNow](#servicenow)
   - [CI Support Groups on Engage form](#ci-support-groups-on-engage-form)
   - [Engage: Problem Management](#engage-problem-management)
