@@ -130,6 +130,7 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [Post Daily On-call to ChatOps](#post-daily-on-call)
   - [Shift Gaps](#shift-gaps)
   - [Translator](#translator)
+  - [Who is on call now?](#who-is-on-call-now)
   - [xAgent Dockerfile](#xagent-dockerfile)
   - [xAgent on Kubernetes](#xagent-on-kubernetes)
   - [xM SOAP](#xm-soap)
@@ -451,6 +452,10 @@ Check out this sweet shift gaps notification tool from Paul Dansey. It will find
 ## Translator
 Run time translation for messages!? This integration uses the Google Translation service to translate the individual properties of an event and inserts them into the outgoing notifications. 
 * [Event Translator](https://github.com/xmatters/xm-labs-event-translator)
+
+## Who is on call now
+Generate a notification with the current on-call schedule for the indicated groups.
+* [Who is on call now](https://github.com/xmatters/xm-labs-whos-on-call-now)
 
 ### xAgent Dockerfile
 Docker is a great way to build secure, resiliant infrastructure. This repo details how to run the xAgent in a container environment.
