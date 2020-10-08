@@ -126,6 +126,7 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [Incomplete Groups](#incomplete-groups)
   - [Initiate by phone](#initiate-by-phone)
   - [JWT](#jwt)
+  - [Mass Administer Users](#mass-administer-users)
   - [Post Event Report](#post-event-report)
   - [Post Daily On-call to ChatOps](#post-daily-on-call)
   - [Shift Gaps](#shift-gaps)
@@ -437,13 +438,16 @@ Levraging the tools of Twilio, this integration kicks off an event initiated by 
 JSON Web Tokens are an emerging standard for authenticating with APIs in cloud based systems. This library helps generate them in the integration builder. 
 * [JWT in IB](https://github.com/xmatters/xm-labs-jwt)
 
-### Post Event Report
-* [Generate a post event report from xMatters](https://github.com/xmatters/xm-labs-post-event-report)
-
 ### Post Daily On-call
 Ever wanted a daily post the on-call schedule for some groups into your favorite Slack or MS Teams channel? This integration is for you!
 * [Post Daily On-call to ChatOps](https://github.com/xmatters/xm-labs-xMatters-Post-Daily-On-Call-to-Chat-Ops)
 
+### Post Event Report
+* [Generate a post event report from xMatters](https://github.com/xmatters/xm-labs-post-event-report)
+
+### Mass Administer Users
+A message panel to mass acitivate and deactivate users.
+* [Mass Admin Users](https://github.com/xmatters/xm-labs-user-admin-workflow)
 
 ### Shift Gaps
 Check out this sweet shift gaps notification tool from Paul Dansey. It will find any gaps in the shifts in the groups specified and send a notification with the details. 
