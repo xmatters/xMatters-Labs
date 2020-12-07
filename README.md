@@ -62,10 +62,12 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [CircleCi](#circleci)
 - [Cisco](#cisco)
   - [Prime](#prime)
-- [Consul](#consul)
 - [EasyVista](#easyvista)
 - [Grafana](#grafana)
 - [Graylog](#graylog)
+- [HashiCorp](#hashicorp)
+  - [Consul](#consul)
+  - [Terraform](#terraform)
 - [Honeycomb.io](#honeycombio)
 - [HP](#hp)
   - [NNMi](#nnmi)
@@ -114,7 +116,6 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [Splunk](#splunk)
   - [Custom Messages](#custom-messages)
 - [Sysdig](#sysdig)  
-- [Terraform](#terraform)
 - [ThousandEyes](#thousandeyes)
 - [TravisCI](#travisci)
 - [xMatters](#xmatters)
@@ -201,10 +202,6 @@ CircleCi is a CI/CD platform for building anything. This integration adds xMatte
 This integration polls Prime for new Alarms and will generate events in xMatters for each one. 
 * [Cisco Prime closed loop integration](https://github.com/xmatters/xm-labs-cisco-prime)
 
-## Consul
-Consul by Hashicorp is a service networking solution to automate network configurations, discover services, and enable secure connectivity across any cloud or runtime.
-* [Consul Health Check](https://github.com/xmatters/xm-labs-consul)
-
 ## EasyVista
 Closed loop integration to EasyVista Incidents
 * [EasyVista](https://github.com/xmatters/xm-labs-easyvista)
@@ -216,6 +213,14 @@ Get xMatters notifications for all metrics in Grafana.
 ## Graylog
 Aggregate logs and trigger alerts into xMatters.
 * [Trigger alerts](https://github.com/xmatters/xm-labs-graylog)
+
+## HashiCorp
+### Consul
+Consul by Hashicorp is a service networking solution to automate network configurations, discover services, and enable secure connectivity across any cloud or runtime.
+* [Consul Health Check](https://github.com/xmatters/xm-labs-consul)
+
+### Terraform
+* [Terraform one way integration](https://github.com/xmatters/xM-Labs-Terraform)
 
 ## Honeycomb.io
 The queen of observation platforms, Honeycomb gives you insight into all the dark corners of your application. This integration adds the on-call scheduling and workflow capabilities of xMatters. 
@@ -394,9 +399,6 @@ With this revamped Splunk integration, you can add custom meta information to th
 ## Sysdig
 Extend the alerting and notification abilities of Sysdig with this integration. Also includes an Acknowledge response. 
 * [Sysdig Alerts](https://github.com/xmatters/xm-labs-sysdig)
-
-## Terraform
-* [Terraform one way integration](https://github.com/xmatters/xM-Labs-Terraform)
 
 ## ThousandEyes
 ThousandEyes sees all and can send alerts based on a large variety of network related criteria. 
