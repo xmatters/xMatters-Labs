@@ -89,6 +89,8 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [Nagios XI](#nagios-xi)
 - [Oracle Cloud Control](#oracle-cloud-control)
 - [OverOps](#overops)
+- [Palo Alto Networks](#palo-alto-networks)
+   - [XSOAR](#xsoar)
 - [pgDash](#pgdash)
 - [Postman](#postman)
 - [Prometheus](#prometheus)
@@ -303,6 +305,12 @@ Cloud Control is Oracle's solution for monitoring and managing enterprise clouds
 ## OverOps
 OverOps is a leading monitoring solution that provides direct insight into code level issues. This one-way integration sends events into xMatters using the Webhook alerts feature in OverOps.
 * [One-way integration for OverOps](https://github.com/xmatters/xm-labs-overops)
+
+## Palo Alto Networks
+
+### XSOAR
+Trigger notifications to on-call resources from a playbook and then take action in XSOAR based on the user's response.
+* [Two-way integration for XSOAR)(https://github.com/xmatters/xm-labs-xsoar)
 
 ## pgDash
 pgDash provides comprehensive PostgreSQL monitoring. This integration adds xMatters notifications and toolchains from pgDash. 
