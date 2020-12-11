@@ -138,7 +138,7 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [xAgent Dockerfile](#xagent-dockerfile)
   - [xAgent on Kubernetes](#xagent-on-kubernetes)
   - [xM SOAP](#xm-soap)
-  - [xMtoolbox Quick Start](#xmtoolbox-quickstart)
+  - [xMtoolbox Quick Start](#xmtoolbox-quick-start)
 - [Zabbix](#zabbix)
 
 - [Libraries](#libraries)
