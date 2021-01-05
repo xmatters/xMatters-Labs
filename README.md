@@ -45,9 +45,11 @@ Once you've completed the integration, it's time to post the artifacts to github
 
 # Contents
 - [Alertus](#alertus)
-- [Amazon CloudWatch](#amazon-cloudwatch)
 - [Atlassian](#atlassian)
   - [Bitbucket Pipelines](#bitbucket-pipelines)
+- [AWS](#aws)
+   - [Amazon CloudWatch](#amazon-cloudwatch)
+   - [EBS Resize](#ebs-resize)
 - [BMC](#bmc)
   - [Control - M v9](#control---m-v9)
   - [Remedy Helix](#remedy-helix)
@@ -151,15 +153,20 @@ Once you've completed the integration, it's time to post the artifacts to github
 The Alertus integration allows xMatters to make limited desktop notifications. (The integration targets a group or organizational unit in Alertus; it does not add desktop notifications as a device type.)
 * [One-way integration with Alertus](https://github.com/xmatters/xm-labs-alertus)
 
-## Amazon CloudWatch
-CloudWatch is Amazon's monitoring arm for the AWS infrastructure. This is a one way integration to be notified of any alerts from CloudWatch.
-* [One-way integration with CloudWatch](https://github.com/xmatters/xm-labs-awscloudwatch)
-
 ## Atlassian
 ### Bitbucket Pipelines
 Pipelines are a powerful way to kick off build scripts from Bitbucket repos. Be notified and drive workflow on failed builds. 
 * [Failed Builds alerts integration with Pipelines](https://github.com/xmatters/xm-labs-bitbucket-pipeline)
 
+# AWS 
+## Amazon CloudWatch
+CloudWatch is Amazon's monitoring arm for the AWS infrastructure. This is a one way integration to be notified of any alerts from CloudWatch.
+* [One-way integration with CloudWatch](https://github.com/xmatters/xm-labs-awscloudwatch)
+
+## EBS Resize
+Block storage is a major component of many applications and sometimes it fills up. This workflow submitted to the community uses the Flow Designer to resize the volumes when they fill up. 
+* [AWS EBS Resize](https://github.com/linaro-its/xm-labs-aws-ebs-resize)
+   
 ## BMC
 ### Control - M v9
 xM Labs closed loop integration for Control-M 9. For an engineering approved integration to Control-M v8, see [here](https://support.xmatters.com/hc/en-us/articles/202025245). 
