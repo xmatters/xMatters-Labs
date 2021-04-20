@@ -1,4 +1,4 @@
-<img src="media/_Final_xM_Octo-Logo-01.png" width="200" height="200" align="right">
+<img src="https://www.xmatters.com/wp-content/themes/xmatters-v1/images/logo-colour-black-text.svg" width="200" align="right">
 
 # xMatters-Labs
 Welcome to xMatters Labs, the official/unofficial Research and Development wing of xMatters, inc., and home to the most cutting-edge integrations on offer.
