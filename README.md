@@ -424,9 +424,13 @@ ThousandEyes sees all and can send alerts based on a large variety of network re
 
 ## xMatters
 
+### xMatters Labs Statuspage Steps
+A collection of seven custom steps for use with xMatters Flow Designer. The steps are designed to make integrating with Atlassian Statuspage Incidents even easier.
+ * [Statuspage Steps](https://github.com/xmatters/xm-labs-statuspage-steps) 
+
 ### Incident Flow Steps
 A collection of 6 custom flow steps for working with xMatters Incidents in xMatters Flow Designer.
- * [Copy Group Panel](https://github.com/xmatters/xm-labs-incident-flow-steps) 
+ * [Incident Flow Steps](https://github.com/xmatters/xm-labs-incident-flow-steps) 
 
 ### Copy Group
 A message panel to copy a group. 
