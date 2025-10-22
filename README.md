@@ -364,6 +364,9 @@ Our integration with ServiceNow is available via the ServiceNow store (see our [
 This integration adds the event status, response and delivery information to a table within ServiceNow. This makes for an easy source of reporting. 
 * [Event log for ServiceNow](https://github.com/xmatters/xm-labs-servicenow-event-log)
 
+### Integration Hub
+The Integration Hub from ServiceNow allows for easy drag and drop integrations across any table to any product. This integration gives an example for Incident that can be modified for any other table. 
+* [ServiceNow Integration Hub](https://github.com/xmatters/xm-labs-integrationhub)
 
 ## ServiceNow Flow Designer v2
 Our Flow Designer based integration with ServiceNow is available via the ServiceNow store Everbridge Flow Designer (see our [Support site](https://help.xmatters.com/integrations/itmgmt/servicenow-flow-designer-v2.htm)) for full details).
@@ -376,12 +379,6 @@ Our Flow Designer based integration with ServiceNow is available via the Service
 
 ### ServiceNow Emergency Change Approval
 [ServiceNow Emergency Change Approval](https://github.com/xmsteele/xm-labs-servicenow-emergency-change-approval) - The ServiceNow Emergency Change Approval workflow alerts members of your Change Approval group via xMatters.
-
-
-
-### Integration Hub
-The Integration Hub from ServiceNow allows for easy drag and drop integrations across any table to any product. This integration gives an example for Incident that can be modified for any other table. 
-* [ServiceNow Integration Hub](https://github.com/xmatters/xm-labs-integrationhub)
 
 ### Linc
 The Lean Integration Nerve Center (Linc) is an alternative integration to xMatters from ServiceNow and can support any table in ServiceNow rather than just incidents. 
