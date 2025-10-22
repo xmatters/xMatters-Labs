@@ -100,7 +100,6 @@ Once you've completed the integration, it's time to post the artifacts to github
 - [Sematext](#sematext)
 - [Sentry.io](#sentry-io)
 - [ServiceNow](#servicenow)
-  x
   - [Engage: Problem Management](#engage-problem-management)
   - [Engage: Post to Chat](#engage-post-to-chat)
   - [Event log](#event-log)
@@ -110,8 +109,13 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [Major Incident Module](#major-incident-module)
   - [Service Portal Widget](#service-portal-widget)
  
-- [ServiceNow Flowdesigner v2](https://help.xmatters.com/integrations/itmgmt/servicenow-flow-designer-v2.htm)
+- [ServiceNow Flow Designer v2](https://help.xmatters.com/integrations/itmgmt/servicenow-flow-designer-v2.htm)
   - [SNOW Security Incident Alerts](#SNOW-Security-Incident-Alerts)
+  - [Major Incident: Incident Task and Communication Task Notifications](MajorIncident:-incident-Task-and-communication-task-notifications)
+  - [ServiceNow Emergency Change Approval](servicenow-emergency-change-approval)
+
+
+
 - [SignalFx](#signalfx)
 - [Site24x7](#site24x7)
 - [Slack](#slack)
@@ -363,6 +367,21 @@ Our integration with ServiceNow is available via the ServiceNow store (see our [
 ### Event log
 This integration adds the event status, response and delivery information to a table within ServiceNow. This makes for an easy source of reporting. 
 * [Event log for ServiceNow](https://github.com/xmatters/xm-labs-servicenow-event-log)
+
+
+## ServiceNow Flow Designer v2
+Our Flow Designer based integration with ServiceNow is available via the ServiceNow store Everbridge Flow Designer (see our [Support site](https://help.xmatters.com/integrations/itmgmt/servicenow-flow-designer-v2.htm)) for full details).
+
+### SNOW Security Incident Alerts
+[SNOW Security Incident Alerts](https://github.com/xmatters/SNOW-Security-Incident-Alerts) - ServiceNow Security Incidents are security issues, like threats or vulnerabilities, within an organization that are managed through a structured, automated response workflow. This is an example of extending the existing ServiceNow xMatters application to ingest alerts, prioritize issues using intelligent workflows and automation, and provides on-call notifications for investigation and remediation. xMatters helps to contain, eradicate, and recover from security events, minimizing impact by coordinating responses across IT and security teams
+
+### Major Incident: Incident Task and Communication Task Notifications
+[Major Incident: Incident Task and Communication Task Notifications](https://github.com/xmatters/xm-labs-servicenow-major-incident-workbench) - ServiceNow files and xMatters workflows to interact with the major incident workbench. Specifically, this adds the ability to alert through xMatters on incident tasks and incident communication tasks
+
+### ServiceNow Emergency Change Approval
+[ServiceNow Emergency Change Approval](https://github.com/xmsteele/xm-labs-servicenow-emergency-change-approval) - The ServiceNow Emergency Change Approval workflow alerts members of your Change Approval group via xMatters.
+
+
 
 ### Integration Hub
 The Integration Hub from ServiceNow allows for easy drag and drop integrations across any table to any product. This integration gives an example for Incident that can be modified for any other table. 
