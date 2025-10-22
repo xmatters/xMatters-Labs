@@ -108,14 +108,10 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [Linc](#linc)
   - [Major Incident Module](#major-incident-module)
   - [Service Portal Widget](#service-portal-widget)
- 
-- [ServiceNow Flow Designer v2](https://help.xmatters.com/integrations/itmgmt/servicenow-flow-designer-v2.htm)
+- [ServiceNow Flow Designer v2](#servicenow-flow-designer-v2)
   - [SNOW Security Incident Alerts](#SNOW-Security-Incident-Alerts)
-  - [Major Incident: Incident Task and Communication Task Notifications](MajorIncident:-incident-Task-and-communication-task-notifications)
-  - [ServiceNow Emergency Change Approval](servicenow-emergency-change-approval)
-
-
-
+  - [Major Incident: Incident Task and Communication Task Notifications](#major-incident-incident-task-and-communication-task-notifications)
+  - [ServiceNow Emergency Change Approval](#servicenow-emergency-change-approval)
 - [SignalFx](#signalfx)
 - [Site24x7](#site24x7)
 - [Slack](#slack)
