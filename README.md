@@ -382,7 +382,7 @@ Our Flow Designer based integration with ServiceNow is available via the Service
 [ServiceNow Emergency Change Approval](https://github.com/xmatters/xm-labs-servicenow-emergency-change-approval) - The ServiceNow Emergency Change Approval workflow alerts members of your Change Approval group via xMatters.
 
 ### ServiceNow Service Management Process
-[ServiceNow xMatters Services Management](https://github.com/xmatters/xm-labs-servicenow-xMatters-services-management)) - Everbridge xMatters ServiceNow V2 - Service Management Process - create cmdb_ci_service as xMatters services to do more with incidents.
+[ServiceNow xMatters Services Management](https://github.com/xmatters/xm-labs-servicenow-xMatters-services-management) - Everbridge xMatters ServiceNow V2 - Service Management Process - create cmdb_ci_service as xMatters services to do more with incidents.
 
 ### Linc
 The Lean Integration Nerve Center (Linc) is an alternative integration to xMatters from ServiceNow and can support any table in ServiceNow rather than just incidents. 
