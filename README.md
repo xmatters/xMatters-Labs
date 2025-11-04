@@ -112,6 +112,7 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [SNOW Security Incident Alerts](#SNOW-Security-Incident-Alerts)
   - [Major Incident: Incident Task and Communication Task Notifications](#major-incident-incident-task-and-communication-task-notifications)
   - [ServiceNow Emergency Change Approval](#servicenow-emergency-change-approval)
+  - [ServiceNow xMatters Services Management](#servicenow-xmatters-services-management)
 - [SignalFx](#signalfx)
 - [Site24x7](#site24x7)
 - [Slack](#slack)
@@ -378,7 +379,10 @@ Our Flow Designer based integration with ServiceNow is available via the Service
 [Major Incident: Incident Task and Communication Task Notifications](https://github.com/xmatters/xm-labs-servicenow-major-incident-workbench) - ServiceNow files and xMatters workflows to interact with the major incident workbench. Specifically, this adds the ability to alert through xMatters on incident tasks and incident communication tasks
 
 ### ServiceNow Emergency Change Approval
-[ServiceNow Emergency Change Approval](https://github.com/xmsteele/xm-labs-servicenow-emergency-change-approval) - The ServiceNow Emergency Change Approval workflow alerts members of your Change Approval group via xMatters.
+[ServiceNow Emergency Change Approval](https://github.com/xmatters/xm-labs-servicenow-emergency-change-approval) - The ServiceNow Emergency Change Approval workflow alerts members of your Change Approval group via xMatters.
+
+### ServiceNow Service Management Process
+[ServiceNow xMatters Services Management](https://github.com/xmatters/xm-labs-servicenow-xMatters-services-management)) - Everbridge xMatters ServiceNow V2 - Service Management Process - create cmdb_ci_service as xMatters services to do more with incidents.
 
 ### Linc
 The Lean Integration Nerve Center (Linc) is an alternative integration to xMatters from ServiceNow and can support any table in ServiceNow rather than just incidents. 
