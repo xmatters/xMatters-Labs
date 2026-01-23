@@ -113,6 +113,7 @@ Once you've completed the integration, it's time to post the artifacts to github
   - [Major Incident: Incident Task and Communication Task Notifications](#major-incident-incident-task-and-communication-task-notifications)
   - [ServiceNow Emergency Change Approval](#servicenow-emergency-change-approval)
   - [ServiceNow Services Management Process](#servicenow-service-management-process)
+  - [ServiceNow xMatters Service and Change Intelligence](#servicenow-xmatters-service-and-change-intelligence) 
 - [SignalFx](#signalfx)
 - [Site24x7](#site24x7)
 - [Slack](#slack)
