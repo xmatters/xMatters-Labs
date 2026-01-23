@@ -382,7 +382,7 @@ Our Flow Designer based integration with ServiceNow is available via the Service
 [ServiceNow Emergency Change Approval](https://github.com/xmatters/xm-labs-servicenow-emergency-change-approval) - The ServiceNow Emergency Change Approval workflow alerts members of your Change Approval group via xMatters.
 
 ### ServiceNow Service Management Process
-[ServiceNow xMatters Services Management](https://github.com/xmatters/xm-labs-servicenow-xMatters-services-management) - Everbridge xMatters ServiceNow V2 - Service Management Process - create cmdb_ci_service as xMatters services to do more with incidents.
+[ServiceNow xMatters Service and Change Intelligence](https://github.com/xmatters/ServiceNow2xMatters-BizService-and-Change-Intelligence) - These changes enable Major Incident Managers, SREs and Devops teams to do more with services in xMatters and ServiceNow. If you’re using the Everbridge Flow Designer (EBFD) app in ServiceNow alongside xMatters, you'll benefit from shared context by having the same service names, ownership, and change history show up in the places where people are actively working on responding to and resolving incidents. With these changes you can bridge the gap between impacted services and ownership bringing clarity to Incident Commanders when delegating resolver responsibilities. Services can be connected to xMatters StatusPages and can be updated throughout the incident lifecycle from initial impact to resolution all while keeping stakeholders informed.
 
 ### Linc
 The Lean Integration Nerve Center (Linc) is an alternative integration to xMatters from ServiceNow and can support any table in ServiceNow rather than just incidents. 
